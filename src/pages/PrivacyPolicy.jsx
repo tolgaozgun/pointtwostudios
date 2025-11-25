@@ -28,6 +28,24 @@ const PrivacyPolicy = () => {
                         We do not collect any personally identifiable information (PII) while you use our applications. The Application does not require you to create an account, and we do not track your location or usage data in a way that is linked to your identity.
                     </p>
 
+                    <h2 style={{ marginTop: '2.5rem', marginBottom: '1rem', color: 'white' }}>GDPR Data Protection Rights</h2>
+                    <p style={{ marginBottom: '1.5rem' }}>
+                        We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
+                    </p>
+                    <ul style={{ listStyle: 'disc', marginLeft: '1.5rem', marginBottom: '1.5rem', spaceY: '0.5rem' }}>
+                        <li style={{ marginBottom: '0.5rem' }}>The right to access – You have the right to request copies of your personal data.</li>
+                        <li style={{ marginBottom: '0.5rem' }}>The right to rectification – You have the right to request that we correct any information you believe is inaccurate.</li>
+                        <li style={{ marginBottom: '0.5rem' }}>The right to erasure – You have the right to request that we erase your personal data, under certain conditions.</li>
+                    </ul>
+
+                    <h2 style={{ marginTop: '2.5rem', marginBottom: '1rem', color: 'white' }}>Cookies</h2>
+                    <p style={{ marginBottom: '1.5rem' }}>
+                        Cookies are text files placed on your computer to collect standard Internet log information and visitor behavior information. When you visit our websites, we may collect information from you automatically through cookies or similar technology.
+                    </p>
+                    <p style={{ marginBottom: '1.5rem' }}>
+                        We use cookies to improve your experience on our website, including understanding how you use our website. You can set your browser not to accept cookies, or use our Cookie Consent banner to manage your preferences.
+                    </p>
+
                     <h2 style={{ marginTop: '2.5rem', marginBottom: '1rem', color: 'white' }}>Children's Privacy</h2>
                     <p style={{ marginBottom: '1.5rem' }}>
                         Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13.

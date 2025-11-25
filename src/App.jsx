@@ -1,6 +1,7 @@
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import Home from './pages/Home';
 import PrivacyPolicy from './pages/PrivacyPolicy';
+import CookieConsent from './components/CookieConsent';
 
 function App() {
   return (
@@ -34,6 +35,7 @@ function App() {
           <p>&copy; {new Date().getFullYear()} Point Two Studios. All rights reserved.</p>
           <p style={{ marginTop: '0.5rem', fontSize: '0.8rem' }}>Designed & Built by Tolga Ozgun</p>
         </footer>
+        <CookieConsent />
       </div>
     </Router>
   );
