@@ -67,13 +67,18 @@ const Novus = () => {
                         <button className="btn" style={{ minWidth: '180px' }}>
                             Download on iOS
                         </button>
-                        <button className="btn" style={{
+                        <a href="https://play.google.com/store/apps/details?id=com.tolgaozgun.novus" target="_blank" rel="noopener noreferrer" className="btn" style={{
                             background: 'transparent',
                             border: '1px solid rgba(255,255,255,0.1)',
-                            minWidth: '180px'
+                            minWidth: '180px',
+                            textDecoration: 'none',
+                            display: 'flex',
+                            alignItems: 'center',
+                            justifyContent: 'center',
+                            color: 'white'
                         }}>
                             Get on Android
-                        </button>
+                        </a>
                         <Link to="/novus/support" className="btn" style={{
                             background: 'transparent',
                             border: '1px solid rgba(109, 40, 217, 0.3)',
