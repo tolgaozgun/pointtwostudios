@@ -74,6 +74,18 @@ const Novus = () => {
                         }}>
                             Get on Android
                         </button>
+                        <Link to="/novus/support" className="btn" style={{
+                            background: 'transparent',
+                            border: '1px solid rgba(109, 40, 217, 0.3)',
+                            color: '#d8b4fe',
+                            minWidth: '180px',
+                            textDecoration: 'none',
+                            display: 'flex',
+                            alignItems: 'center',
+                            justifyContent: 'center'
+                        }}>
+                            App Support
+                        </Link>
                     </div>
                 </div>
             </section>
