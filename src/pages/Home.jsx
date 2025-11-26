@@ -1,3 +1,5 @@
+import { Link } from 'react-router-dom';
+
 const Home = () => {
     return (
         <div className="container">
@@ -33,8 +35,8 @@ const Home = () => {
                             Features a curated collection of quotes to boost your productivity and mindfulness.
                         </p>
                         <div style={{ display: 'flex', gap: '1rem' }}>
-                            <button className="btn" style={{ opacity: 0.7, cursor: 'not-allowed' }} title="Coming Soon">App Store</button>
-                            <a href="/novus/privacy-policy" style={{ display: 'flex', alignItems: 'center', color: '#888', fontSize: '0.9rem' }}>Privacy Policy &rarr;</a>
+                            <Link to="/novus" className="btn" style={{ textDecoration: 'none' }}>Learn More</Link>
+                            <Link to="/novus/privacy-policy" style={{ display: 'flex', alignItems: 'center', color: '#888', fontSize: '0.9rem' }}>Privacy Policy &rarr;</Link>
                         </div>
                     </div>
 
