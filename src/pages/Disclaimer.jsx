@@ -1,4 +1,3 @@
-```
 import React from 'react';
 import LegalLayout from '../components/LegalLayout';
 import { useTranslation } from 'react-i18next';
@@ -47,4 +46,3 @@ const Disclaimer = ({ appName = "Point Two Studios", domainName = "pointtwostudi
 };
 
 export default Disclaimer;
-```
