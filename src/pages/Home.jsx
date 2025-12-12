@@ -170,9 +170,9 @@ const Home = () => {
                         </p>
 
                         <div style={{ display: 'flex', gap: '1rem', marginTop: 'auto' }}>
-                            <a href="https://filehelper.app" target="_blank" rel="noopener noreferrer" className="btn" style={{ textDecoration: 'none', flex: 1 }}>
+                            <Link to="/filehelper" className="btn" style={{ textDecoration: 'none', flex: 1 }}>
                                 {t('common.learnMore')}
-                            </a>
+                            </Link>
                             <Link to="/filehelper/privacy-policy" className="btn btn-secondary" style={{ textDecoration: 'none' }}>
                                 {t('common.privacyPolicy')}
                             </Link>

@@ -6,6 +6,7 @@ import CookiePolicy from './pages/CookiePolicy';
 import Disclaimer from './pages/Disclaimer';
 import Novus from './pages/Novus';
 import NovusSupport from './pages/NovusSupport';
+import FileHelper from './pages/FileHelper';
 import Imprint from './pages/Imprint';
 import CookieConsent from './components/CookieConsent';
 import { ThemeProvider } from './components/ThemeContext';
@@ -25,6 +26,7 @@ function App() {
               <Route path="/novus/support" element={<NovusSupport />} />
               <Route path="/novus/privacy-policy" element={<PrivacyPolicy appName="Novus" domainName="pointtwostudios.com/novus" />} />
 
+              <Route path="/filehelper" element={<FileHelper />} />
               <Route path="/filehelper/privacy-policy" element={<PrivacyPolicy appName="FileHelper" domainName="filehelper.app" />} />
               <Route path="/filehelper/terms" element={<TermsOfUse appName="FileHelper" domainName="filehelper.app" />} />
               <Route path="/filehelper/cookies" element={<CookiePolicy appName="FileHelper" domainName="filehelper.app" />} />

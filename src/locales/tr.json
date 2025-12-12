@@ -26,6 +26,15 @@
         },
         "getInTouch": "İletişime Geç"
     },
+    "fileHelper": {
+        "hero": {
+            "badge": "Mobil Uygulama Çok Yakında",
+            "title": "FileHelper",
+            "subtitle": "Dosyalarınız için İsviçre Çakısı",
+            "description": "FileHelper; dosya dönüştürme, sıkıştırma, yeniden boyutlandırma ve düzenleme için kapsamlı bir çevrimiçi araçtır. Güvenli, hızlı ve kullanımı kolay. Mobil uygulama şu anda geliştirilme aşamasındadır.",
+            "visitWebsite": "Web Sitesini Ziyaret Et"
+        }
+    },
     "novus": {
         "hero": {
             "badge": "Sürüm 2.0 Yayında",
