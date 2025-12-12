@@ -11,7 +11,8 @@
         "learnMore": "Learn More",
         "privacyPolicy": "Privacy Policy",
         "imprint": "Imprint",
-        "comingSoon": "Coming Soon"
+        "comingSoon": "Coming Soon",
+        "visitWebsite": "Visit Website"
     },
     "home": {
         "heroTitle": "Crafting Digital Experiences",
@@ -48,8 +49,7 @@
             "badge": "Mobile App Coming Soon",
             "title": "FileHelper",
             "subtitle": "Your Swiss Army Knife for Files",
-            "description": "FileHelper is a comprehensive online tool for file conversion, compression, resizing, and editing. Secure, fast, and easy to use. Mobile app is currently under development.",
-            "visitWebsite": "Visit Website"
+            "description": "FileHelper is a comprehensive online tool for file conversion, compression, resizing, and editing. Secure, fast, and easy to use. Mobile app is currently under development."
         }
     },
     "photoRestore": {

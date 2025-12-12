@@ -11,7 +11,8 @@
         "learnMore": "Mehr erfahren",
         "privacyPolicy": "Datenschutzrichtlinie",
         "imprint": "Impressum",
-        "comingSoon": "Demnächst"
+        "comingSoon": "Demnächst",
+        "visitWebsite": "Website besuchen"
     },
     "home": {
         "heroTitle": "Digitale Erlebnisse schaffen",
@@ -48,8 +49,7 @@
             "badge": "Mobile App bald verfügbar",
             "title": "FileHelper",
             "subtitle": "Ihr Schweizer Taschenmesser für Dateien",
-            "description": "FileHelper ist ein umfassendes Online-Tool zur Dateikonvertierung, Komprimierung, Größenänderung und Bearbeitung. Sicher, schnell und einfach zu bedienen. Die mobile App befindet sich derzeit in der Entwicklung.",
-            "visitWebsite": "Website besuchen"
+            "description": "FileHelper ist ein umfassendes Online-Tool zur Dateikonvertierung, Komprimierung, Größenänderung und Bearbeitung. Sicher, schnell und einfach zu bedienen. Die mobile App befindet sich derzeit in der Entwicklung."
         }
     },
     "photoRestore": {

@@ -11,7 +11,8 @@
         "learnMore": "Saber más",
         "privacyPolicy": "Política de Privacidad",
         "imprint": "Aviso Legal",
-        "comingSoon": "Próximamente"
+        "comingSoon": "Próximamente",
+        "visitWebsite": "Visitar sitio web"
     },
     "home": {
         "heroTitle": "Creando Experiencias Digitales",
@@ -48,8 +49,7 @@
             "badge": "Aplicación móvil próximamente",
             "title": "FileHelper",
             "subtitle": "Su navaja suiza para archivos",
-            "description": "FileHelper es una herramienta en línea completa para la conversión, compresión, cambio de tamaño y edición de archivos. Segura, rápida y fácil de usar. La aplicación móvil se encuentra actualmente en desarrollo.",
-            "visitWebsite": "Visitar sitio web"
+            "description": "FileHelper es una herramienta en línea completa para la conversión, compresión, cambio de tamaño y edición de archivos. Segura, rápida y fácil de usar. La aplicación móvil se encuentra actualmente en desarrollo."
         }
     },
     "photoRestore": {

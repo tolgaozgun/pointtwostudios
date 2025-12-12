@@ -68,7 +68,7 @@ const FileHelper = () => {
                             alignItems: 'center',
                             justifyContent: 'center'
                         }}>
-                            {t('fileHelper.hero.visitWebsite')}
+                            {t('common.visitWebsite')}
                         </a>
                         <Link to="/filehelper/privacy-policy" className="btn btn-secondary" style={{
                             minWidth: '180px',

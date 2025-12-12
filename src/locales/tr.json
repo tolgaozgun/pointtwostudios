@@ -11,7 +11,8 @@
         "learnMore": "Daha Fazla",
         "privacyPolicy": "Gizlilik Politikası",
         "imprint": "Künye",
-        "comingSoon": "Çok Yakında"
+        "comingSoon": "Çok Yakında",
+        "visitWebsite": "Web Sitesini Ziyaret Et"
     },
     "home": {
         "heroTitle": "Dijital Deneyimler Oluşturuyoruz",
@@ -48,8 +49,7 @@
             "badge": "Mobil Uygulama Çok Yakında",
             "title": "FileHelper",
             "subtitle": "Dosyalarınız için İsviçre Çakısı",
-            "description": "FileHelper; dosya dönüştürme, sıkıştırma, yeniden boyutlandırma ve düzenleme için kapsamlı bir çevrimiçi araçtır. Güvenli, hızlı ve kullanımı kolay. Mobil uygulama şu anda geliştirilme aşamasındadır.",
-            "visitWebsite": "Web Sitesini Ziyaret Et"
+            "description": "FileHelper; dosya dönüştürme, sıkıştırma, yeniden boyutlandırma ve düzenleme için kapsamlı bir çevrimiçi araçtır. Güvenli, hızlı ve kullanımı kolay. Mobil uygulama şu anda geliştirilme aşamasındadır."
         }
     },
     "photoRestore": {

@@ -68,7 +68,7 @@ const MinecraftWorld = () => {
                             justifyContent: 'center',
                             textDecoration: 'none'
                         }}>
-                            {t('fileHelper.hero.visitWebsite')}
+                            {t('common.visitWebsite')}
                         </a>
                         <Link to="/minecraft/privacy-policy" className="btn btn-secondary" style={{
                             minWidth: '180px',
