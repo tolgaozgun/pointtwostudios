@@ -10,7 +10,8 @@
         "contactUs": "Bize Ulaşın",
         "learnMore": "Daha Fazla",
         "privacyPolicy": "Gizlilik Politikası",
-        "imprint": "Künye"
+        "imprint": "Künye",
+        "comingSoon": "Çok Yakında"
     },
     "home": {
         "heroTitle": "Dijital Deneyimler Oluşturuyoruz",
@@ -49,6 +50,38 @@
             "subtitle": "Dosyalarınız için İsviçre Çakısı",
             "description": "FileHelper; dosya dönüştürme, sıkıştırma, yeniden boyutlandırma ve düzenleme için kapsamlı bir çevrimiçi araçtır. Güvenli, hızlı ve kullanımı kolay. Mobil uygulama şu anda geliştirilme aşamasındadır.",
             "visitWebsite": "Web Sitesini Ziyaret Et"
+        }
+    },
+    "photoRestore": {
+        "hero": {
+            "badge": "Mobil Uygulama Çok Yakında",
+            "title": "Fotoğraf Restorasyonu",
+            "subtitle": "Anılarınızı Yeniden Canlandırın",
+            "description": "Yapay zeka gücüyle eski, bulanık veya hasarlı fotoğrafları onarın. Kaliteyi artırmak, çizikleri gidermek ve siyah beyaz fotoğrafları renklendirmek için gelişmiş makine öğrenimi modellerini kullanır."
+        }
+    },
+    "detective": {
+        "hero": {
+            "badge": "Mobil Oyun Çok Yakında",
+            "title": "Dedektif Oyunu",
+            "subtitle": "Gizemi Çözün",
+            "description": "Karmaşık suç vakalarını çözün. Kanıt toplayın, şüphelileri sorgulayın ve gerçeği bulmak için parçaları birleştirin. Her seçim önemlidir."
+        }
+    },
+    "meetTime": {
+        "hero": {
+            "badge": "Web & Mobil Uygulama Çok Yakında",
+            "title": "MeetTime",
+            "subtitle": "Planlama Artık Çok Kolay",
+            "description": "E-posta trafiğine son verin. Ekibinizle saniyeler içinde mükemmel toplantı saatini bulun. Google Takvim ve Outlook ile senkronize çalışır."
+        }
+    },
+    "minecraft": {
+        "hero": {
+            "badge": "Blog & Topluluk",
+            "title": "Minecraft Dünyası",
+            "subtitle": "Türkçe Minecraft Kaynağınız",
+            "description": "Minecraft dünyasından en son haberler, rehberler, modlar ve güncellemeler. En büyük Türkçe Minecraft topluluğuna katılın."
         }
     },
     "novus": {

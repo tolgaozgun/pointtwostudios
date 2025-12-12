@@ -54,18 +54,19 @@ const Home = () => {
 
                 <div style={{
                     display: 'grid',
-                    gridTemplateColumns: 'repeat(auto-fit, minmax(350px, 1fr))',
+                    gridTemplateColumns: 'repeat(auto-fit, minmax(320px, 1fr))',
                     gap: '2rem'
                 }}>
                     {/* Novus App Card */}
                     <div className="glass-panel project-card">
                         <div style={{
                             display: 'flex',
-                            justifyContent: 'space-between',
-                            alignItems: 'center',
+                            flexDirection: 'column',
+                            gap: '0.8rem',
                             marginBottom: '1.5rem',
                             borderBottom: '1px solid var(--glass-border)',
-                            paddingBottom: '1rem'
+                            paddingBottom: '1rem',
+                            alignItems: 'flex-start'
                         }}>
                             <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
                                 {/* Placeholder Icon/Logo */}
@@ -88,12 +89,13 @@ const Home = () => {
                             <span style={{
                                 background: 'rgba(124, 58, 237, 0.1)',
                                 color: 'var(--primary-color)',
-                                padding: '0.4rem 0.8rem',
+                                padding: '0.3rem 0.6rem',
                                 borderRadius: 'var(--radius-full)',
-                                fontSize: '0.75rem',
+                                fontSize: '0.7rem',
                                 fontWeight: '600',
                                 textTransform: 'uppercase',
-                                letterSpacing: '0.5px'
+                                letterSpacing: '0.5px',
+                                alignSelf: 'flex-start'
                             }}>
                                 {t('home.novusCard.type')}
                             </span>
@@ -122,11 +124,12 @@ const Home = () => {
                     <div className="glass-panel project-card">
                         <div style={{
                             display: 'flex',
-                            justifyContent: 'space-between',
-                            alignItems: 'center',
+                            flexDirection: 'column',
+                            gap: '0.8rem',
                             marginBottom: '1.5rem',
                             borderBottom: '1px solid var(--glass-border)',
-                            paddingBottom: '1rem'
+                            paddingBottom: '1rem',
+                            alignItems: 'flex-start'
                         }}>
                             <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
                                 {/* Placeholder Icon/Logo */}
@@ -149,12 +152,13 @@ const Home = () => {
                             <span style={{
                                 background: 'rgba(59, 130, 246, 0.1)',
                                 color: 'var(--accent-color)',
-                                padding: '0.4rem 0.8rem',
+                                padding: '0.3rem 0.6rem',
                                 borderRadius: 'var(--radius-full)',
-                                fontSize: '0.75rem',
+                                fontSize: '0.7rem',
                                 fontWeight: '600',
                                 textTransform: 'uppercase',
-                                letterSpacing: '0.5px'
+                                letterSpacing: '0.5px',
+                                alignSelf: 'flex-start'
                             }}>
                                 {t('home.fileHelperCard.type')}
                             </span>
@@ -183,11 +187,12 @@ const Home = () => {
                     <div className="glass-panel project-card">
                         <div style={{
                             display: 'flex',
-                            justifyContent: 'space-between',
-                            alignItems: 'center',
+                            flexDirection: 'column',
+                            gap: '0.8rem',
                             marginBottom: '1.5rem',
                             borderBottom: '1px solid var(--glass-border)',
-                            paddingBottom: '1rem'
+                            paddingBottom: '1rem',
+                            alignItems: 'flex-start'
                         }}>
                             <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
                                 {/* Icon */}
@@ -210,12 +215,13 @@ const Home = () => {
                             <span style={{
                                 background: 'rgba(16, 185, 129, 0.1)',
                                 color: '#10b981',
-                                padding: '0.4rem 0.8rem',
+                                padding: '0.3rem 0.6rem',
                                 borderRadius: 'var(--radius-full)',
-                                fontSize: '0.75rem',
+                                fontSize: '0.7rem',
                                 fontWeight: '600',
                                 textTransform: 'uppercase',
-                                letterSpacing: '0.5px'
+                                letterSpacing: '0.5px',
+                                alignSelf: 'flex-start'
                             }}>
                                 {t('home.meetTimeCard.type')}
                             </span>
@@ -231,9 +237,12 @@ const Home = () => {
                         </p>
 
                         <div style={{ display: 'flex', gap: '1rem', marginTop: 'auto' }}>
-                            <button className="btn btn-disabled" style={{ flex: 1, opacity: 0.7, cursor: 'not-allowed' }}>
-                                Coming Soon
-                            </button>
+                            <Link to="/meettime" className="btn" style={{ textDecoration: 'none', flex: 1 }}>
+                                {t('common.learnMore')}
+                            </Link>
+                            <Link to="/meettime/privacy-policy" className="btn btn-secondary" style={{ textDecoration: 'none' }}>
+                                {t('common.privacyPolicy')}
+                            </Link>
                         </div>
                     </div>
 
@@ -241,11 +250,12 @@ const Home = () => {
                     <div className="glass-panel project-card">
                         <div style={{
                             display: 'flex',
-                            justifyContent: 'space-between',
-                            alignItems: 'center',
+                            flexDirection: 'column',
+                            gap: '0.8rem',
                             marginBottom: '1.5rem',
                             borderBottom: '1px solid var(--glass-border)',
-                            paddingBottom: '1rem'
+                            paddingBottom: '1rem',
+                            alignItems: 'flex-start'
                         }}>
                             <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
                                 {/* Icon */}
@@ -268,12 +278,13 @@ const Home = () => {
                             <span style={{
                                 background: 'rgba(245, 158, 11, 0.1)',
                                 color: '#f59e0b',
-                                padding: '0.4rem 0.8rem',
+                                padding: '0.3rem 0.6rem',
                                 borderRadius: 'var(--radius-full)',
-                                fontSize: '0.75rem',
+                                fontSize: '0.7rem',
                                 fontWeight: '600',
                                 textTransform: 'uppercase',
-                                letterSpacing: '0.5px'
+                                letterSpacing: '0.5px',
+                                alignSelf: 'flex-start'
                             }}>
                                 {t('home.photoRestoreCard.type')}
                             </span>
@@ -289,9 +300,12 @@ const Home = () => {
                         </p>
 
                         <div style={{ display: 'flex', gap: '1rem', marginTop: 'auto' }}>
-                            <button className="btn btn-disabled" style={{ flex: 1, opacity: 0.7, cursor: 'not-allowed' }}>
-                                Coming Soon
-                            </button>
+                            <Link to="/photo-restore" className="btn" style={{ textDecoration: 'none', flex: 1 }}>
+                                {t('common.learnMore')}
+                            </Link>
+                            <Link to="/photo-restore/privacy-policy" className="btn btn-secondary" style={{ textDecoration: 'none' }}>
+                                {t('common.privacyPolicy')}
+                            </Link>
                         </div>
                     </div>
 
@@ -299,11 +313,12 @@ const Home = () => {
                     <div className="glass-panel project-card">
                         <div style={{
                             display: 'flex',
-                            justifyContent: 'space-between',
-                            alignItems: 'center',
+                            flexDirection: 'column',
+                            gap: '0.8rem',
                             marginBottom: '1.5rem',
                             borderBottom: '1px solid var(--glass-border)',
-                            paddingBottom: '1rem'
+                            paddingBottom: '1rem',
+                            alignItems: 'flex-start'
                         }}>
                             <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
                                 {/* Icon */}
@@ -326,12 +341,13 @@ const Home = () => {
                             <span style={{
                                 background: 'rgba(239, 68, 68, 0.1)',
                                 color: '#ef4444',
-                                padding: '0.4rem 0.8rem',
+                                padding: '0.3rem 0.6rem',
                                 borderRadius: 'var(--radius-full)',
-                                fontSize: '0.75rem',
+                                fontSize: '0.7rem',
                                 fontWeight: '600',
                                 textTransform: 'uppercase',
-                                letterSpacing: '0.5px'
+                                letterSpacing: '0.5px',
+                                alignSelf: 'flex-start'
                             }}>
                                 {t('home.detectiveCard.type')}
                             </span>
@@ -347,9 +363,12 @@ const Home = () => {
                         </p>
 
                         <div style={{ display: 'flex', gap: '1rem', marginTop: 'auto' }}>
-                            <button className="btn btn-disabled" style={{ flex: 1, opacity: 0.7, cursor: 'not-allowed' }}>
-                                Coming Soon
-                            </button>
+                            <Link to="/detective" className="btn" style={{ textDecoration: 'none', flex: 1 }}>
+                                {t('common.learnMore')}
+                            </Link>
+                            <Link to="/detective/privacy-policy" className="btn btn-secondary" style={{ textDecoration: 'none' }}>
+                                {t('common.privacyPolicy')}
+                            </Link>
                         </div>
                     </div>
 
@@ -357,11 +376,12 @@ const Home = () => {
                     <div className="glass-panel project-card">
                         <div style={{
                             display: 'flex',
-                            justifyContent: 'space-between',
-                            alignItems: 'center',
+                            flexDirection: 'column',
+                            gap: '0.8rem',
                             marginBottom: '1.5rem',
                             borderBottom: '1px solid var(--glass-border)',
-                            paddingBottom: '1rem'
+                            paddingBottom: '1rem',
+                            alignItems: 'flex-start'
                         }}>
                             <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
                                 {/* Icon */}
@@ -384,12 +404,13 @@ const Home = () => {
                             <span style={{
                                 background: 'rgba(139, 92, 246, 0.1)',
                                 color: '#8b5cf6',
-                                padding: '0.4rem 0.8rem',
+                                padding: '0.3rem 0.6rem',
                                 borderRadius: 'var(--radius-full)',
-                                fontSize: '0.75rem',
+                                fontSize: '0.7rem',
                                 fontWeight: '600',
                                 textTransform: 'uppercase',
-                                letterSpacing: '0.5px'
+                                letterSpacing: '0.5px',
+                                alignSelf: 'flex-start'
                             }}>
                                 {t('home.minecraftCard.type')}
                             </span>
@@ -405,9 +426,12 @@ const Home = () => {
                         </p>
 
                         <div style={{ display: 'flex', gap: '1rem', marginTop: 'auto' }}>
-                            <a href="https://minecraftdunyasi.com" target="_blank" rel="noopener noreferrer" className="btn" style={{ textDecoration: 'none', flex: 1 }}>
-                                {t('fileHelper.hero.visitWebsite')}
-                            </a>
+                            <Link to="/minecraft" className="btn" style={{ textDecoration: 'none', flex: 1 }}>
+                                {t('common.learnMore')}
+                            </Link>
+                            <Link to="/minecraft/privacy-policy" className="btn btn-secondary" style={{ textDecoration: 'none' }}>
+                                {t('common.privacyPolicy')}
+                            </Link>
                         </div>
                     </div>
                 </div>

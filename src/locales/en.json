@@ -10,7 +10,8 @@
         "contactUs": "Contact Us",
         "learnMore": "Learn More",
         "privacyPolicy": "Privacy Policy",
-        "imprint": "Imprint"
+        "imprint": "Imprint",
+        "comingSoon": "Coming Soon"
     },
     "home": {
         "heroTitle": "Crafting Digital Experiences",
@@ -49,6 +50,38 @@
             "subtitle": "Your Swiss Army Knife for Files",
             "description": "FileHelper is a comprehensive online tool for file conversion, compression, resizing, and editing. Secure, fast, and easy to use. Mobile app is currently under development.",
             "visitWebsite": "Visit Website"
+        }
+    },
+    "photoRestore": {
+        "hero": {
+            "badge": "Mobile App Coming Soon",
+            "title": "Photo Restoration",
+            "subtitle": "Bring Your Memories Back to Life",
+            "description": "Restore old, blurry, or damaged photos with the power of AI. Using advanced machine learning models to enhance quality, remove scratches, and colorize black & white images."
+        }
+    },
+    "detective": {
+        "hero": {
+            "badge": "Mobile Game Coming Soon",
+            "title": "Detective Game",
+            "subtitle": "Solve the Mystery",
+            "description": "Immerse yourself in complex criminal cases. collect evidence, interrogate suspects, and put the pieces together to find the truth. Every choice matters."
+        }
+    },
+    "meetTime": {
+        "hero": {
+            "badge": "Web & Mobile App Coming Soon",
+            "title": "MeetTime",
+            "subtitle": "Scheduling Made Simple",
+            "description": "Stop the email tennis. Find the perfect meeting time with your team in seconds. Syncs with Google Calendar and Outlook."
+        }
+    },
+    "minecraft": {
+        "hero": {
+            "badge": "Blog & Community",
+            "title": "Minecraft Dünyası",
+            "subtitle": "Your Turkish Minecraft Source",
+            "description": "The latest news, guides, mods, and updates from the world of Minecraft. Join the largest Turkish Minecraft community."
         }
     },
     "novus": {
