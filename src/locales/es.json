@@ -24,6 +24,22 @@
             "type": "Aplicación Web",
             "description": "Una herramienta en línea completa para la conversión, compresión, cambio de tamaño y edición de archivos. Segura, rápida y fácil de usar."
         },
+        "photoRestoreCard": {
+            "type": "Aplicación Móvil",
+            "description": "Aplicación de mejora de fotos con IA que utiliza el modelo Nano Banana de Google. Funciones de cámara/galería, restauración y opciones HD."
+        },
+        "detectiveCard": {
+            "type": "Juego Móvil",
+            "description": "Un juego de detectives donde resuelves casos examinando expedientes, evidencias y pistas para descubrir la verdad."
+        },
+        "meetTimeCard": {
+            "type": "Web y Aplicación Móvil",
+            "description": "Programe reuniones sin esfuerzo. Cree eventos, comparta enlaces y encuentre el mejor momento con mapas de calor. Sin correos de ida y vuelta."
+        },
+        "minecraftCard": {
+            "type": "Blog",
+            "description": "Un blog completo de Minecraft en turco con noticias, guías y actualizaciones de la comunidad."
+        },
         "getInTouch": "Ponte en contacto"
     },
     "fileHelper": {

@@ -24,6 +24,22 @@
             "type": "Web Uygulaması",
             "description": "Dosya dönüştürme, sıkıştırma, yeniden boyutlandırma ve düzenleme için kapsamlı bir çevrimiçi araç. Güvenli, hızlı ve kullanımı kolay."
         },
+        "photoRestoreCard": {
+            "type": "Mobil Uygulama",
+            "description": "Google Nano Banana modelini kullanan yapay zeka destekli fotoğraf iyileştirme uygulaması. Kamera/galeri seçimi, onarım ve HD seçenekleri içerir."
+        },
+        "detectiveCard": {
+            "type": "Mobil Oyun",
+            "description": "Dosyaları, kanıtları ve ipuçlarını inceleyerek vakaları çözdüğünüz bir dedektiflik oyunu."
+        },
+        "meetTimeCard": {
+            "type": "Web & Mobil Uygulama",
+            "description": "Toplantıları zahmetsizce planlayın. Etkinlik oluşturun, link paylaşın ve en uygun zamanı bulun. E-posta trafiğine son."
+        },
+        "minecraftCard": {
+            "type": "Blog",
+            "description": "Haberler, rehberler ve topluluk güncellemeleri içeren kapsamlı Türkçe Minecraft blogu."
+        },
         "getInTouch": "İletişime Geç"
     },
     "fileHelper": {

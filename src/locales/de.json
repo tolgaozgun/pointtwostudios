@@ -24,6 +24,22 @@
             "type": "Web-App",
             "description": "Ein umfassendes Online-Tool zur Dateikonvertierung, Komprimierung, Größenänderung und Bearbeitung. Sicher, schnell und einfach zu bedienen."
         },
+        "photoRestoreCard": {
+            "type": "Mobile App",
+            "description": "KI-gestützte Fotoverbesserungs-App mit Googles Nano-Banana-Modell. Mit Kamera-/Galerieauswahl, Restaurierung und HD-Optionen."
+        },
+        "detectiveCard": {
+            "type": "Handyspiel",
+            "description": "Ein Detektivspiel, bei dem Sie Fälle lösen, indem Sie Fallakten, Beweise und Hinweise untersuchen, um die Wahrheit aufzudecken."
+        },
+        "meetTimeCard": {
+            "type": "Web & Mobile App",
+            "description": "Planen Sie Meetings mühelos. Erstellen Sie Events, teilen Sie Links und finden Sie die beste Zeit. Keine E-Mail-Hin-und-Her mehr."
+        },
+        "minecraftCard": {
+            "type": "Blog",
+            "description": "Ein umfassender türkischer Minecraft-Blog mit Nachrichten, Anleitungen und Community-Updates."
+        },
         "getInTouch": "Kontakt aufnehmen"
     },
     "fileHelper": {
