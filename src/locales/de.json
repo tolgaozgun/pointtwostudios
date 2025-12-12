@@ -1,0 +1,225 @@
+{
+    "common": {
+        "pointTwoStudios": "Point Two Studios LTD",
+        "privacy": "Datenschutz",
+        "terms": "Nutzungsbedingungen",
+        "cookies": "Cookie-Richtlinie",
+        "disclaimer": "Haftungsausschluss",
+        "designedBy": "Entworfen & Entwickelt von",
+        "allRightsReserved": "Alle Rechte vorbehalten.",
+        "contactUs": "Kontaktieren Sie uns",
+        "learnMore": "Mehr erfahren",
+        "privacyPolicy": "Datenschutzrichtlinie",
+        "imprint": "Impressum"
+    },
+    "home": {
+        "heroTitle": "Digitale Erlebnisse schaffen",
+        "heroSubtitle": "Point Two Studios LTD ist ein kreatives Softwarestudio. Fokus auf minimalistische, funktionale und schöne Software.",
+        "projects": "Projekte",
+        "novusCard": {
+            "type": "Mobile App",
+            "description": "\"Motivational Quotes - Novus\" wurde entwickelt, um mit einer sauberen, ablenkungsfreien Oberfläche tägliche Inspiration zu bieten. Bietet eine kuratierte Sammlung von Zitaten, um Ihre Produktivität und Achtsamkeit zu steigern."
+        },
+        "getInTouch": "Kontakt aufnehmen"
+    },
+    "legal": {
+        "lastUpdated": "Zuletzt aktualisiert: {{date}}",
+        "interpretation": "Auslegung und Definitionen",
+        "definitions": "Definitionen",
+        "contactIntro": "Wenn Sie Fragen zu diesen Nutzungsbedingungen haben, können Sie uns kontaktieren:",
+        "termsOfUse": {
+            "title": "Nutzungsbedingungen",
+            "intro": "Bitte lesen Sie diese Nutzungsbedingungen sorgfältig durch, bevor Sie unseren Service nutzen.",
+            "interpretation": {
+                "title": "Auslegung und Definitionen",
+                "interpretationText": "Die Wörter, deren Anfangsbuchstabe großgeschrieben wird, haben Bedeutungen, die unter den folgenden Bedingungen definiert sind. Die folgenden Definitionen haben dieselbe Bedeutung, unabhängig davon, ob sie im Singular oder Plural erscheinen.",
+                "definitionsTitle": "Definitionen",
+                "definitionsIntro": "Für die Zwecke dieser Nutzungsbedingungen:",
+                "application": "<strong>Anwendung</strong> bezeichnet das vom Unternehmen bereitgestellte Softwareprogramm, das von Ihnen auf ein elektronisches Gerät heruntergeladen wurde, mit dem Namen \"Motivational Quotes - Novus\".",
+                "company": "<strong>Unternehmen</strong> (in dieser Vereinbarung als \"das Unternehmen\", \"Wir\", \"Uns\" oder \"Unser\" bezeichnet) bezieht sich auf Point Two Studios LTD.",
+                "service": "<strong>Dienst</strong> bezeichnet die Anwendung oder die Website.",
+                "you": "<strong>Sie</strong> bezeichnet die Person, die auf den Dienst zugreift oder ihn nutzt, oder das Unternehmen oder eine andere juristische Person, in deren Namen eine solche Person auf den Dienst zugreift oder ihn nutzt."
+            },
+            "acknowledgment": {
+                "title": "Anerkennung",
+                "text1": "Dies sind die Nutzungsbedingungen, die die Nutzung dieses Dienstes regeln, und die Vereinbarung, die zwischen Ihnen und dem Unternehmen besteht.",
+                "text2": "Ihr Zugang zu und Ihre Nutzung des Dienstes ist abhängig von Ihrer Annahme und Einhaltung dieser Nutzungsbedingungen."
+            },
+            "intellectualProperty": {
+                "title": "Geistiges Eigentum",
+                "text1": "Der Dienst und seine ursprünglichen Inhalte (ausgenommen Inhalte, die von Ihnen oder anderen Benutzern bereitgestellt werden), Funktionen und Funktionen sind und bleiben das ausschließliche Eigentum des Unternehmens und seiner Lizenzgeber.",
+                "text2": "Der Dienst ist durch Urheber-, Marken- und andere Gesetze sowohl des Landes als auch ausländischer Staaten geschützt."
+            },
+            "links": {
+                "title": "Links zu anderen Websites",
+                "text1": "Unser Dienst kann Links zu Websites oder Diensten Dritter enthalten, die nicht im Besitz oder unter der Kontrolle des Unternehmens stehen.",
+                "text2": "Das Unternehmen hat keine Kontrolle über und übernimmt keine Verantwortung für den Inhalt, die Datenschutzrichtlinien oder Praktiken von Websites oder Diensten Dritter."
+            },
+            "termination": {
+                "title": "Kündigung",
+                "text1": "Wir können Ihren Zugang sofort, ohne vorherige Ankündigung oder Haftung, aus jedem Grund kündigen oder aussetzen, einschließlich und ohne Einschränkung, wenn Sie gegen diese Nutzungsbedingungen verstoßen.",
+                "text2": "Bei Kündigung erlischt Ihr Recht zur Nutzung des Dienstes sofort."
+            },
+            "limitation": {
+                "title": "Haftungsbeschränkung",
+                "text1": "Ungeachtet etwaiger Schäden, die Ihnen entstehen könnten, beschränkt sich die gesamte Haftung des Unternehmens und eines seiner Lieferanten unter einer Bestimmung dieser Bedingungen und Ihr ausschließlicher Rechtsbehelf für alles Vorstehende auf den Betrag, den Sie tatsächlich über den Dienst bezahlt haben, oder 100 USD, wenn Sie nichts über den Dienst gekauft haben.",
+                "text2": "Soweit nach geltendem Recht zulässig, haften das Unternehmen oder seine Lieferanten in keinem Fall für spezielle, zufällige, indirekte oder Folgeschäden (einschließlich, aber nicht beschränkt auf Schäden aus entgangenem Gewinn, Verlust von Daten oder anderen Informationen, für Geschäftsunterbrechungen, für Personenschäden, Verlust der Privatsphäre, die aus der Nutzung oder Unmöglichkeit der Nutzung des Dienstes entstehen)."
+            },
+            "asIs": {
+                "title": "\"WIE BESEHEN\" und \"WIE VERFÜGBAR\" Haftungsausschluss",
+                "text1": "Der Dienst wird Ihnen \"WIE BESEHEN\" und \"WIE VERFÜGBAR\" und mit allen Fehlern und Mängeln ohne jegliche Garantie zur Verfügung gestellt."
+            },
+            "governing": {
+                "title": "Geltendes Recht",
+                "text1": "Die Gesetze des Landes, unter Ausschluss seiner Kollisionsnormen, regeln diese Bedingungen und Ihre Nutzung des Dienstes."
+            },
+            "changes": {
+                "title": "Änderungen dieser Nutzungsbedingungen",
+                "text1": "Wir behalten uns das Recht vor, nach eigenem Ermessen diese Bedingungen jederzeit zu ändern oder zu ersetzen."
+            },
+            "contact": {
+                "title": "Kontaktieren Sie uns",
+                "text1": "Wenn Sie Fragen zu diesen Nutzungsbedingungen haben, können Sie uns kontaktieren:"
+            }
+        },
+        "privacyPolicy": {
+            "title": "Datenschutzrichtlinie",
+            "intro": "Diese Datenschutzrichtlinie beschreibt unsere Richtlinien und Verfahren zur Erfassung, Nutzung und Offenlegung Ihrer Informationen bei der Nutzung des Dienstes.",
+            "interpretation": {
+                "title": "Auslegung und Definitionen",
+                "definitionsIntro": "Für die Zwecke dieser Datenschutzrichtlinie:",
+                "company": "<strong>Unternehmen</strong> (in dieser Vereinbarung als \"das Unternehmen\", \"Wir\", \"Uns\" oder \"Unser\" bezeichnet) bezieht sich auf Point Two Studios LTD.",
+                "service": "<strong>Dienst</strong> bezeichnet die Anwendung, insbesondere \"Motivational Quotes - Novus\", und die Website.",
+                "you": "<strong>Sie</strong> bezeichnet die Person, die auf den Dienst zugreift oder ihn nutzt."
+            },
+            "collecting": {
+                "title": "Erfassung und Nutzung Ihrer personenbezogenen Daten",
+                "typesTitle": "Arten der erfassten Daten",
+                "text1": "Wir erfassen keine personenbezogenen Daten (PII), während Sie unsere Anwendungen nutzen. Die Anwendung erfordert nicht, dass Sie ein Konto erstellen."
+            },
+            "gdpr": {
+                "title": "DSGVO-Datenschutzrechte",
+                "intro": "Wir möchten sicherstellen, dass Sie sich all Ihrer Datenschutzrechte voll bewusst sind. Jeder Benutzer hat Anspruch auf Folgendes:",
+                "access": "Das Auskunftsrecht – Sie haben das Recht, Kopien Ihrer personenbezogenen Daten anzufordern.",
+                "rectification": "Das Recht auf Berichtigung – Sie haben das Recht zu verlangen, dass wir alle Informationen korrigieren, die Sie für unrichtig halten.",
+                "erasure": "Das Recht auf Löschung – Sie haben das Recht zu verlangen, dass wir Ihre personenbezogenen Daten unter bestimmten Bedingungen löschen."
+            },
+            "cookies": {
+                "title": "Cookies",
+                "text1": "Cookies sind Textdateien, die auf Ihrem Computer abgelegt werden, um Standard-Internetprotokollinformationen und Informationen zum Besucherverhalten zu sammeln.",
+                "text2": "Wir verwenden Cookies, um Ihre Erfahrung auf unserer Website zu verbessern."
+            },
+            "children": {
+                "title": "Datenschutz für Kinder",
+                "text1": "Unser Dienst richtet sich nicht an Personen unter 13 Jahren."
+            },
+            "changes": {
+                "title": "Änderungen dieser Datenschutzrichtlinie",
+                "text1": "Wir können unsere Datenschutzrichtlinie von Zeit zu Zeit aktualisieren."
+            },
+            "contact": {
+                "title": "Kontaktieren Sie uns",
+                "text1": "Wenn Sie Fragen zu dieser Datenschutzrichtlinie haben, können Sie uns kontaktieren:"
+            }
+        },
+        "cookiePolicy": {
+            "title": "Cookie-Richtlinie",
+            "intro": "Diese Cookie-Richtlinie erklärt, was Cookies sind und wie wir sie verwenden.",
+            "interpretation": {
+                "title": "Auslegung und Definitionen",
+                "definitionsIntro": "Für die Zwecke dieser Cookie-Richtlinie:",
+                "cookies": "<strong>Cookies</strong> sind kleine Dateien, die von einer Website auf Ihrem Computer abgelegt werden.",
+                "website": "<strong>Website</strong> bezieht sich auf Point Two Studios LTD, erreichbar unter <a href=\"https://pointtwostudios.com\" style=\"color: var(--accent-color)\">pointtwostudios.com</a>"
+            },
+            "useOfCookies": {
+                "title": "Die Verwendung der Cookies",
+                "typeTitle": "Art der verwendeten Cookies",
+                "text1": "Cookies können \"Dauerhafte\" oder \"Sitzungs\"-Cookies sein.",
+                "text2": "Wir verwenden sowohl Sitzungs- als auch dauerhafte Cookies für die unten aufgeführten Zwecke:",
+                "necessary": {
+                    "title": "Notwendige / Wesentliche Cookies",
+                    "type": "Typ: Sitzungscookies",
+                    "administered": "Verwaltet von: Uns",
+                    "purpose": "Zweck: Diese Cookies sind unerlässlich, um Ihnen über die Website verfügbare Dienste bereitzustellen."
+                },
+                "functionality": {
+                    "title": "Funktionalitätscookies",
+                    "type": "Typ: Dauerhafte Cookies",
+                    "administered": "Verwaltet von: Uns",
+                    "purpose": "Zweck: Diese Cookies ermöglichen es uns, Entscheidungen zu speichern, die Sie bei der Nutzung der Website treffen."
+                },
+                "tracking": {
+                    "title": "Tracking- und Leistungscookies",
+                    "type": "Typ: Dauerhafte Cookies",
+                    "administered": "Verwaltet von: Dritten (Google Analytics)",
+                    "purpose": "Zweck: Diese Cookies werden verwendet, um Informationen über den Verkehr auf der Website und die Nutzung der Website durch Benutzer zu verfolgen."
+                }
+            },
+            "choices": {
+                "title": "Ihre Entscheidungen bezüglich Cookies",
+                "text1": "Wenn Sie die Verwendung von Cookies auf der Website vermeiden möchten, müssen Sie zunächst die Verwendung von Cookies in Ihrem Browser deaktivieren.",
+                "text2": "Wenn Sie unsere Cookies nicht akzeptieren, kann es bei der Nutzung der Website zu Unannehmlichkeiten kommen.",
+                "text3": "Weitere Informationen zur Verwaltung von Cookies finden Sie im Hilfebereich Ihres Browsers oder Geräts."
+            },
+            "contact": {
+                "title": "Kontaktieren Sie uns",
+                "text1": "Wenn Sie Fragen zu dieser Cookie-Richtlinie haben, können Sie uns kontaktieren:"
+            }
+        },
+        "disclaimer": {
+            "title": "Haftungsausschluss",
+            "intro1": "Die im Dienst enthaltenen Informationen dienen nur allgemeinen Informationszwecken.",
+            "intro2": "Das Unternehmen übernimmt keine Verantwortung für Fehler oder Auslassungen in den Inhalten des Dienstes.",
+            "general": {
+                "title": "Allgemeiner Haftungsausschluss",
+                "text1": "In keinem Fall haftet das Unternehmen für spezielle, direkte, indirekte, Folgeschäden oder zufällige Schäden oder irgendwelche Schäden.",
+                "text2": "Das Unternehmen garantiert nicht, dass der Dienst frei von Viren oder anderen schädlichen Komponenten ist."
+            },
+            "externalLinks": {
+                "title": "Haftungsausschluss für externe Links",
+                "text1": "Der Dienst kann Links zu externen Websites enthalten, die nicht vom Unternehmen bereitgestellt oder gewartet werden.",
+                "text2": "Bitte beachten Sie, dass das Unternehmen die Richtigkeit, Relevanz, Aktualität oder Vollständigkeit von Informationen auf diesen externen Websites nicht garantiert."
+            },
+            "errors": {
+                "title": "Haftungsausschluss für Fehler und Auslassungen",
+                "text1": "Die vom Dienst bereitgestellten Informationen dienen nur der allgemeinen Orientierung zu interessierenden Themen.",
+                "text2": "Das Unternehmen ist nicht verantwortlich für Fehler oder Auslassungen oder für die Ergebnisse, die aus der Nutzung dieser Informationen erzielt werden."
+            },
+            "fairUse": {
+                "title": "Fair Use Haftungsausschluss",
+                "text1": "Das Unternehmen kann urheberrechtlich geschütztes Material verwenden, das nicht immer ausdrücklich vom Urheberrechtsinhaber genehmigt wurde.",
+                "text2": "Das Unternehmen glaubt, dass dies eine \"faire Nutzung\" (Fair Use) darstellt.",
+                "text3": "Wenn Sie urheberrechtlich geschütztes Material aus dem Dienst für eigene Zwecke verwenden möchten, die über die faire Nutzung hinausgehen, müssen Sie die Erlaubnis des Urheberrechtsinhabers einholen."
+            },
+            "views": {
+                "title": "Haftungsausschluss für geäußerte Ansichten",
+                "text1": "Der Dienst kann Ansichten und Meinungen enthalten, die die der Autoren sind.",
+                "text2": "Von Benutzern veröffentlichte Kommentare liegen in ihrer alleinigen Verantwortung."
+            },
+            "noResponsibility": {
+                "title": "Haftungsausschluss keine Verantwortung",
+                "text1": "Die Informationen im Dienst werden unter der Voraussetzung bereitgestellt, dass das Unternehmen hierin keine rechtlichen, buchhalterischen, steuerlichen oder sonstigen professionellen Beratungen und Dienstleistungen erbringt.",
+                "text2": "In keinem Fall haften das Unternehmen oder seine Lieferanten für spezielle, zufällige, indirekte oder Folgeschäden."
+            },
+            "useRisk": {
+                "title": "\"Nutzung auf eigenes Risiko\" Haftungsausschluss",
+                "text1": "Alle Informationen im Dienst werden \"wie besehen\" bereitgestellt.",
+                "text2": "Das Unternehmen haftet Ihnen oder anderen gegenüber nicht für Entscheidungen oder Maßnahmen, die im Vertrauen auf die vom Dienst bereitgestellten Informationen getroffen wurden."
+            },
+            "contact": {
+                "title": "Kontaktieren Sie uns",
+                "text1": "Wenn Sie Fragen zu diesem Haftungsausschluss haben, können Sie uns kontaktieren:"
+            }
+        }
+    },
+    "imprint": {
+        "title": "Impressum",
+        "informationPursuant": "Angaben gemäß § 5 TMG",
+        "representedBy": "Vertreten durch:",
+        "contact": "Kontakt",
+        "registerEntry": "Registereintrag",
+        "vat": "Umsatzsteuer-ID",
+        "disclaimer": "Haftungsausschluss",
+        "disclaimerText": "Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen."
+    }
+}

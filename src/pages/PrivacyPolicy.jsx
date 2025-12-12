@@ -1,62 +1,65 @@
 import React from 'react';
 import LegalLayout from '../components/LegalLayout';
+import { useTranslation } from 'react-i18next';
 
 const PrivacyPolicy = () => {
+    const { t } = useTranslation();
+
     return (
-        <LegalLayout title="Privacy Policy" lastUpdated="November 25, 2025">
+        <LegalLayout title={t('legal.privacyPolicy.title')} lastUpdated="November 25, 2025">
             <p style={{ marginBottom: '1.5rem' }}>
-                This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
+                {t('legal.privacyPolicy.intro')}
             </p>
 
-            <h2 style={{ marginTop: '2.5rem', marginBottom: '1rem', color: 'white' }}>Interpretation and Definitions</h2>
+            <h2 style={{ marginTop: '2.5rem', marginBottom: '1rem', color: 'white' }}>{t('legal.interpretation')}</h2>
             <p style={{ marginBottom: '1rem' }}>
-                For the purposes of this Privacy Policy:
+                {t('legal.termsOfUse.interpretation.definitionsIntro')}
             </p>
             <ul style={{ listStyle: 'disc', marginLeft: '1.5rem', marginBottom: '1.5rem' }}>
-                <li style={{ marginBottom: '0.5rem' }}><strong>Company</strong> (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Point Two Studios.</li>
-                <li style={{ marginBottom: '0.5rem' }}><strong>Service</strong> refers to the Application, specifically "Motivational Quotes - Novus", and the Website.</li>
-                <li style={{ marginBottom: '0.5rem' }}><strong>You</strong> means the individual accessing or using the Service.</li>
+                <li style={{ marginBottom: '0.5rem' }} dangerouslySetInnerHTML={{ __html: t('legal.privacyPolicy.interpretation.company') }} />
+                <li style={{ marginBottom: '0.5rem' }} dangerouslySetInnerHTML={{ __html: t('legal.privacyPolicy.interpretation.service') }} />
+                <li style={{ marginBottom: '0.5rem' }} dangerouslySetInnerHTML={{ __html: t('legal.privacyPolicy.interpretation.you') }} />
             </ul>
 
-            <h2 style={{ marginTop: '2.5rem', marginBottom: '1rem', color: 'white' }}>Collecting and Using Your Personal Data</h2>
+            <h2 style={{ marginTop: '2.5rem', marginBottom: '1rem', color: 'white' }}>{t('legal.privacyPolicy.collecting.title')}</h2>
             <p style={{ marginBottom: '1rem' }}>
-                <strong>Types of Data Collected</strong>
+                <strong>{t('legal.privacyPolicy.collecting.typesTitle')}</strong>
             </p>
             <p style={{ marginBottom: '1.5rem' }}>
-                We do not collect any personally identifiable information (PII) while you use our applications. The Application does not require you to create an account, and we do not track your location or usage data in a way that is linked to your identity.
+                {t('legal.privacyPolicy.collecting.text1')}
             </p>
 
-            <h2 style={{ marginTop: '2.5rem', marginBottom: '1rem', color: 'white' }}>GDPR Data Protection Rights</h2>
+            <h2 style={{ marginTop: '2.5rem', marginBottom: '1rem', color: 'white' }}>{t('legal.privacyPolicy.gdpr.title')}</h2>
             <p style={{ marginBottom: '1.5rem' }}>
-                We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
+                {t('legal.privacyPolicy.gdpr.intro')}
             </p>
             <ul style={{ listStyle: 'disc', marginLeft: '1.5rem', marginBottom: '1.5rem' }}>
-                <li style={{ marginBottom: '0.5rem' }}>The right to access – You have the right to request copies of your personal data.</li>
-                <li style={{ marginBottom: '0.5rem' }}>The right to rectification – You have the right to request that we correct any information you believe is inaccurate.</li>
-                <li style={{ marginBottom: '0.5rem' }}>The right to erasure – You have the right to request that we erase your personal data, under certain conditions.</li>
+                <li style={{ marginBottom: '0.5rem' }}>{t('legal.privacyPolicy.gdpr.access')}</li>
+                <li style={{ marginBottom: '0.5rem' }}>{t('legal.privacyPolicy.gdpr.rectification')}</li>
+                <li style={{ marginBottom: '0.5rem' }}>{t('legal.privacyPolicy.gdpr.erasure')}</li>
             </ul>
 
-            <h2 style={{ marginTop: '2.5rem', marginBottom: '1rem', color: 'white' }}>Cookies</h2>
+            <h2 style={{ marginTop: '2.5rem', marginBottom: '1rem', color: 'white' }}>{t('legal.privacyPolicy.cookies.title')}</h2>
             <p style={{ marginBottom: '1.5rem' }}>
-                Cookies are text files placed on your computer to collect standard Internet log information and visitor behavior information. When you visit our websites, we may collect information from you automatically through cookies or similar technology.
+                {t('legal.privacyPolicy.cookies.text1')}
             </p>
             <p style={{ marginBottom: '1.5rem' }}>
-                We use cookies to improve your experience on our website, including understanding how you use our website. You can set your browser not to accept cookies, or use our Cookie Consent banner to manage your preferences.
-            </p>
-
-            <h2 style={{ marginTop: '2.5rem', marginBottom: '1rem', color: 'white' }}>Children's Privacy</h2>
-            <p style={{ marginBottom: '1.5rem' }}>
-                Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13.
+                {t('legal.privacyPolicy.cookies.text2')}
             </p>
 
-            <h2 style={{ marginTop: '2.5rem', marginBottom: '1rem', color: 'white' }}>Changes to this Privacy Policy</h2>
+            <h2 style={{ marginTop: '2.5rem', marginBottom: '1rem', color: 'white' }}>{t('legal.privacyPolicy.children.title')}</h2>
             <p style={{ marginBottom: '1.5rem' }}>
-                We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
+                {t('legal.privacyPolicy.children.text1')}
             </p>
 
-            <h2 style={{ marginTop: '2.5rem', marginBottom: '1rem', color: 'white' }}>Contact Us</h2>
+            <h2 style={{ marginTop: '2.5rem', marginBottom: '1rem', color: 'white' }}>{t('legal.privacyPolicy.changes.title')}</h2>
+            <p style={{ marginBottom: '1.5rem' }}>
+                {t('legal.privacyPolicy.changes.text1')}
+            </p>
+
+            <h2 style={{ marginTop: '2.5rem', marginBottom: '1rem', color: 'white' }}>{t('legal.privacyPolicy.contact.title')}</h2>
             <p>
-                If you have any questions about this Privacy Policy, You can contact us:
+                {t('legal.privacyPolicy.contact.text1')}
                 <br />
                 <a href="mailto:contact@pointtwostudios.com" style={{ color: 'var(--accent-color)' }}>contact@pointtwostudios.com</a>
             </p>

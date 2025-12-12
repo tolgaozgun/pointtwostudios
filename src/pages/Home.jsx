@@ -1,20 +1,22 @@
 import { Link } from 'react-router-dom';
+import { useTranslation } from 'react-i18next';
 
 const Home = () => {
+    const { t } = useTranslation();
+
     return (
         <div className="container">
             <header style={{ textAlign: 'center', padding: '6rem 0 4rem' }}>
                 <h1 className="gradient-text" style={{ fontSize: '4rem', marginBottom: '1.5rem', lineHeight: 1.1, fontWeight: 700 }}>
-                    Crafting Digital<br />Experiences
+                    <span dangerouslySetInnerHTML={{ __html: t('home.heroTitle').replace('\n', '<br/>') }} />
                 </h1>
                 <p style={{ fontSize: '1.25rem', color: '#888', maxWidth: '600px', margin: '0 auto', fontWeight: 300 }}>
-                    Point Two Studios is the personal creative playground of Tolga Ozgun.
-                    Focusing on minimalist, functional, and beautiful software.
+                    {t('home.heroSubtitle')}
                 </p>
             </header>
 
             <section style={{ margin: '4rem 0' }}>
-                <h2 style={{ marginBottom: '2rem', fontSize: '2rem', borderLeft: '4px solid var(--primary-color)', paddingLeft: '1rem' }}>Projects</h2>
+                <h2 style={{ marginBottom: '2rem', fontSize: '2rem', borderLeft: '4px solid var(--primary-color)', paddingLeft: '1rem' }}>{t('home.projects')}</h2>
                 <div style={{ display: 'grid', gap: '2rem', gridTemplateColumns: 'repeat(auto-fit, minmax(350px, 1fr))' }}>
 
                     {/* Novus App Card */}
@@ -28,15 +30,14 @@ const Home = () => {
                                 padding: '0.25rem 0.75rem',
                                 borderRadius: '999px',
                                 border: '1px solid rgba(109, 40, 217, 0.3)'
-                            }}>Mobile App</span>
+                            }}>{t('home.novusCard.type')}</span>
                         </div>
                         <p style={{ marginBottom: '1.5rem', color: '#ccc', lineHeight: 1.6 }}>
-                            "Motivational Quotes - Novus" is designed to bring daily inspiration with a clean, distraction-free interface.
-                            Features a curated collection of quotes to boost your productivity and mindfulness.
+                            {t('home.novusCard.description')}
                         </p>
                         <div style={{ display: 'flex', gap: '1rem' }}>
-                            <Link to="/novus" className="btn" style={{ textDecoration: 'none' }}>Learn More</Link>
-                            <Link to="/novus/privacy-policy" style={{ display: 'flex', alignItems: 'center', color: '#888', fontSize: '0.9rem' }}>Privacy Policy &rarr;</Link>
+                            <Link to="/novus" className="btn" style={{ textDecoration: 'none' }}>{t('common.learnMore')}</Link>
+                            <Link to="/novus/privacy-policy" style={{ display: 'flex', alignItems: 'center', color: '#888', fontSize: '0.9rem' }}>{t('common.privacyPolicy')} &rarr;</Link>
                         </div>
                     </div>
 
@@ -44,7 +45,7 @@ const Home = () => {
             </section>
 
             <section style={{ margin: '6rem 0', textAlign: 'center' }}>
-                <h2 style={{ fontSize: '1.5rem', marginBottom: '1rem' }}>Get in Touch</h2>
+                <h2 style={{ fontSize: '1.5rem', marginBottom: '1rem' }}>{t('home.getInTouch')}</h2>
                 <a href="mailto:contact@pointtwostudios.com" style={{ fontSize: '1.2rem', color: 'var(--accent-color)', textDecoration: 'underline', textUnderlineOffset: '4px' }}>
                     contact@pointtwostudios.com
                 </a>

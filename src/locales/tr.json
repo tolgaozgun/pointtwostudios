@@ -1,0 +1,225 @@
+{
+    "common": {
+        "pointTwoStudios": "Point Two Studios LTD",
+        "privacy": "Gizlilik",
+        "terms": "Kullanım Şartları",
+        "cookies": "Çerez Politikası",
+        "disclaimer": "Yasal Uyarı",
+        "designedBy": "Tasarım ve Geliştirme:",
+        "allRightsReserved": "Tüm hakları saklıdır.",
+        "contactUs": "Bize Ulaşın",
+        "learnMore": "Daha Fazla",
+        "privacyPolicy": "Gizlilik Politikası",
+        "imprint": "Künye"
+    },
+    "home": {
+        "heroTitle": "Dijital Deneyimler Oluşturuyoruz",
+        "heroSubtitle": "Point Two Studios LTD yaratıcı bir yazılım stüdyosudur. Minimalist, işlevsel ve güzel yazılımlara odaklanıyoruz.",
+        "projects": "Projeler",
+        "novusCard": {
+            "type": "Mobil Uygulama",
+            "description": "\"Motivational Quotes - Novus\" temiz ve dikkat dağıtmayan bir arayüzle günlük ilham getirmek için tasarlanmıştır. Üretkenliğinizi ve farkındalığınızı artırmak için özenle seçilmiş bir alıntı koleksiyonuna sahiptir."
+        },
+        "getInTouch": "İletişime Geçin"
+    },
+    "legal": {
+        "lastUpdated": "Son güncelleme: {{date}}",
+        "interpretation": "Yorumlama ve Tanımlar",
+        "definitions": "Tanımlar",
+        "contactIntro": "Bu Şartlar ve Koşullar hakkında herhangi bir sorunuz varsa, bizimle iletişime geçebilirsiniz:",
+        "termsOfUse": {
+            "title": "Kullanım Şartları",
+            "intro": "Hizmetimizi kullanmadan önce lütfen bu şartlar ve koşulları dikkatlice okuyun.",
+            "interpretation": {
+                "title": "Yorumlama ve Tanımlar",
+                "interpretationText": "Baş harfi büyük olan kelimeler aşağıdaki koşullar altında tanımlanmış anlamlara sahiptir. Aşağıdaki tanımlar, tekil veya çoğul olarak görünseler de aynı anlama gelecektir.",
+                "definitionsTitle": "Tanımlar",
+                "definitionsIntro": "Bu Şartlar ve Koşulların amaçları doğrultusunda:",
+                "application": "<strong>Uygulama</strong>, Şirket tarafından sağlanan, herhangi bir elektronik cihaza Sizin tarafınızdan indirilen, \"Motivational Quotes - Novus\" adlı yazılım programı anlamına gelir.",
+                "company": "<strong>Şirket</strong> (bu Sözleşmede \"Şirket\", \"Biz\", \"Bize\" veya \"Bizim\" olarak anılacaktır) Point Two Studios LTD'yi ifade eder.",
+                "service": "<strong>Hizmet</strong>, Uygulama veya Web Sitesi anlamına gelir.",
+                "you": "<strong>Siz</strong>, Hizmete erişen veya Hizmeti kullanan birey veya söz konusu bireyin adına Hizmete eriştiği veya Hizmeti kullandığı şirket veya diğer tüzel kişilik anlamına gelir."
+            },
+            "acknowledgment": {
+                "title": "Kabul Beyanı",
+                "text1": "Bunlar, bu Hizmetin kullanımını düzenleyen Şartlar ve Koşullar ve Siz ile Şirket arasında işleyen sözleşmedir. Bu Şartlar ve Koşullar, Hizmetin kullanımıyla ilgili olarak tüm kullanıcıların hak ve yükümlülüklerini belirtir.",
+                "text2": "Hizmete erişiminiz ve kullanımınız, bu Şartlar ve Koşulları kabul etmenize ve bunlara uymanıza bağlıdır. Bu Şartlar ve Koşullar, Hizmete erişen veya Hizmeti kullanan tüm ziyaretçiler, kullanıcılar ve diğer kişiler için geçerlidir."
+            },
+            "intellectualProperty": {
+                "title": "Fikri Mülkiyet",
+                "text1": "Hizmet ve orijinal içeriği (Siz veya diğer kullanıcılar tarafından sağlanan İçerik hariç), özellikleri ve işlevselliği Şirketin ve lisans verenlerinin münhasır mülkiyetindedir ve öyle kalacaktır.",
+                "text2": "Hizmet, hem Ülkenin hem de yabancı ülkelerin telif hakkı, ticari marka ve diğer yasalarıyla korunmaktadır. Ticari markalarımız ve ticari takdim şeklimiz, Şirketin önceden yazılı izni olmaksızın herhangi bir ürün veya hizmetle bağlantılı olarak kullanılamaz."
+            },
+            "links": {
+                "title": "Diğer Web Sitelerine Bağlantılar",
+                "text1": "Hizmetimiz, Şirket tarafından sahip olunmayan veya kontrol edilmeyen üçüncü taraf web sitelerine veya hizmetlerine bağlantılar içerebilir.",
+                "text2": "Şirket, herhangi bir üçüncü taraf web sitesinin veya hizmetinin içeriği, gizlilik politikaları veya uygulamaları üzerinde hiçbir kontrole sahip değildir ve sorumluluk kabul etmez. Ayrıca, Şirketin, bu tür web sitelerinde veya hizmetlerde bulunan herhangi bir içerik, mal veya hizmetin kullanımından veya bunlara güvenilmesinden kaynaklanan veya kaynaklandığı iddia edilen herhangi bir hasar veya kayıptan doğrudan veya dolaylı olarak sorumlu veya yükümlü olmayacağını kabul ve beyan edersiniz."
+            },
+            "termination": {
+                "title": "Fesih",
+                "text1": "Bu Şartlar ve Koşulları ihlal etmeniz dahil ancak bunlarla sınırlı olmamak üzere herhangi bir nedenle, önceden bildirimde bulunmaksızın veya sorumluluk kabul etmeksizin erişiminizi derhal feshedebilir veya askıya alabiliriz.",
+                "text2": "Fesih üzerine, Hizmeti kullanma hakkınız derhal sona erecektir."
+            },
+            "limitation": {
+                "title": "Sorumluluğun Sınırlandırılması",
+                "text1": "Maruz kalabileceğiniz herhangi bir hasara rağmen, Şirketin ve tedarikçilerinin bu Şartların herhangi bir hükmü kapsamındaki tüm sorumluluğu ve yukarıdakilerin tümü için Sizin münhasır çözüm yolunuz, Hizmet aracılığıyla Sizin tarafınızdan fiilen ödenen tutarla veya Hizmet aracılığıyla herhangi bir şey satın almadıysanız 100 ABD Doları ile sınırlı olacaktır.",
+                "text2": "Yürürlükteki yasaların izin verdiği azami ölçüde, Şirket veya tedarikçileri hiçbir durumda, Hizmetin kullanımı veya kullanılamaması, Hizmetle birlikte kullanılan üçüncü taraf yazılımları ve/veya üçüncü taraf donanımları veya bu Şartların herhangi bir hükmüyle bağlantılı olarak ortaya çıkan kâr kaybı, veri veya diğer bilgilerin kaybı, iş kesintisi, kişisel yaralanma, gizlilik kaybı dahil ancak bunlarla sınırlı olmamak üzere herhangi bir özel, arızi, dolaylı veya sonuçsal zarardan (Şirket veya herhangi bir tedarikçi bu tür zararların olasılığı hakkında bilgilendirilmiş olsa bile ve çözüm temel amacında başarısız olsa bile) sorumlu tutulamaz."
+            },
+            "asIs": {
+                "title": "\"OLDUĞU GİBİ\" ve \"MEVCUT OLDUĞU GİBİ\" Sorumluluk Reddi",
+                "text1": "Hizmet Size \"OLDUĞU GİBİ\" ve \"MEVCUT OLDUĞU GİBİ\" ve her türlü kusur ve eksiklikle, herhangi bir garanti olmaksızın sunulmaktadır. Yürürlükteki yasaların izin verdiği azami ölçüde, Şirket, kendi adına ve Bağlı Kuruluşları ve ilgili lisans verenleri ve hizmet sağlayıcıları adına, Hizmetle ilgili olarak ticarete elverişlilik, belirli bir amaca uygunluk, mülkiyet ve ihlal etmeme zımni garantileri ve işlem seyri, ifa seyri, kullanım veya ticari uygulamadan doğabilecek garantiler dahil olmak üzere, açık, zımni, yasal veya başka türlü tüm garantileri açıkça reddeder."
+            },
+            "governing": {
+                "title": "Geçerli Hukuk",
+                "text1": "Kanunlar ihtilafı kuralları hariç olmak üzere, Ülke yasaları bu Şartları ve Hizmet kullanımınızı yönetecektir. Uygulamayı kullanımınız ayrıca diğer yerel, eyalet, ulusal veya uluslararası yasalara tabi olabilir."
+            },
+            "changes": {
+                "title": "Bu Şartlar ve Koşullarda Yapılan Değişiklikler",
+                "text1": "Tamamen Kendi takdirimize bağlı olarak, bu Şartları herhangi bir zamanda değiştirme veya yenileme hakkımızı saklı tutuyoruz. Bir revizyon önemliyse, yeni şartların yürürlüğe girmesinden en az 30 gün önce bildirimde bulunmak için makul çabayı göstereceğiz. Neyin önemli bir değişiklik teşkil ettiği tamamen Bizim takdirimize bağlı olarak belirlenecektir."
+            },
+            "contact": {
+                "title": "Bize Ulaşın",
+                "text1": "Bu Şartlar ve Koşullar hakkında herhangi bir sorunuz varsa, bizimle iletişime geçebilirsiniz:"
+            }
+        },
+        "privacyPolicy": {
+            "title": "Gizlilik Politikası",
+            "intro": "Bu Gizlilik Politikası, Hizmeti kullandığınızda bilgilerinizin toplanması, kullanımı ve ifşası ile ilgili politikalarımızı ve prosedürlerimizi açıklar ve Size gizlilik haklarınızdan ve yasaların Sizi nasıl koruduğundan bahseder.",
+            "interpretation": {
+                "title": "Yorumlama ve Tanımlar",
+                "definitionsIntro": "Bu Gizlilik Politikası amaçları doğrultusunda:",
+                "company": "<strong>Şirket</strong> (bu Sözleşmede \"Şirket\", \"Biz\", \"Bize\" veya \"Bizim\" olarak anılacaktır) Point Two Studios LTD'yi ifade eder.",
+                "service": "<strong>Hizmet</strong>, Uygulama, özellikle \"Motivational Quotes - Novus\" ve Web Sitesi anlamına gelir.",
+                "you": "<strong>Siz</strong>, Hizmete erişen veya Hizmeti kullanan birey anlamına gelir."
+            },
+            "collecting": {
+                "title": "Kişisel Verilerinizin Toplanması ve Kullanılması",
+                "typesTitle": "Toplanan Veri Türleri",
+                "text1": "Uygulamalarımızı kullanırken kişisel olarak tanımlanabilir herhangi bir bilgi (PII) toplamıyoruz. Uygulama bir hesap oluşturmanızı gerektirmez ve konumunuzu veya kullanım verilerinizi kimliğinizle bağlantılı olacak şekilde izlemeyiz."
+            },
+            "gdpr": {
+                "title": "GDPR Veri Koruma Hakları",
+                "intro": "Tüm veri koruma haklarınızın tam olarak farkında olduğunuzdan emin olmak istiyoruz. Her kullanıcı aşağıdakilere hakkına sahiptir:",
+                "access": "Erişim hakkı – Kişisel verilerinizin kopyalarını talep etme hakkına sahipsiniz.",
+                "rectification": "Düzeltme hakkı – Doğru olmadığına inandığınız herhangi bir bilgiyi düzeltmemizi talep etme hakkına sahipsiniz.",
+                "erasure": "Silme hakkı – Belirli koşullar altında kişisel verilerinizi silmemizi talep etme hakkına sahipsiniz."
+            },
+            "cookies": {
+                "title": "Çerezler",
+                "text1": "Çerezler, standart İnternet günlüğü bilgilerini ve ziyaretçi davranış bilgilerini toplamak için bilgisayarınıza yerleştirilen metin dosyalarıdır. Web sitelerimizi ziyaret ettiğinizde, çerezler veya benzer teknolojiler aracılığıyla sizden otomatik olarak bilgi toplayabiliriz.",
+                "text2": "Çerezleri, web sitemizi nasıl kullandığınızı anlamak da dahil olmak üzere web sitemizdeki deneyiminizi geliştirmek için kullanıyoruz. Tarayıcınızı çerezleri kabul etmeyecek şekilde ayarlayabilir veya tercihlerinizi yönetmek için Çerez İzni başlığımızı kullanabilirsiniz."
+            },
+            "children": {
+                "title": "Çocukların Gizliliği",
+                "text1": "Hizmetimiz 13 yaşın altındaki hiç kimseye hitap etmemektedir. 13 yaşın altındaki hiç kimseden bilerek kişisel olarak tanımlanabilir bilgi toplamıyoruz."
+            },
+            "changes": {
+                "title": "Bu Gizlilik Politikasındaki Değişiklikler",
+                "text1": "Gizlilik Politikamızı zaman zaman güncelleyebiliriz. Herhangi bir değişikliği bu sayfada yeni Gizlilik Politikasını yayınlayarak Size bildireceğiz."
+            },
+            "contact": {
+                "title": "Bize Ulaşın",
+                "text1": "Bu Gizlilik Politikası hakkında herhangi bir sorunuz varsa, bizimle iletişime geçebilirsiniz:"
+            }
+        },
+        "cookiePolicy": {
+            "title": "Çerez Politikası",
+            "intro": "Bu Çerez Politikası, Çerezlerin ne olduğunu ve Bunları nasıl kullandığımızı açıklar. Ne tür çerezler kullandığımızı veya Çerezleri kullanarak topladığımız bilgileri ve bu bilgilerin nasıl kullanıldığını anlamak için bu politikayı okumalısınız.",
+            "interpretation": {
+                "title": "Yorumlama ve Tanımlar",
+                "definitionsIntro": "Bu Çerez Politikası amaçları doğrultusunda:",
+                "cookies": "<strong>Çerezler</strong>, bir web sitesi tarafından bilgisayarınıza, mobil cihazınıza veya başka herhangi bir cihaza yerleştirilen ve o web sitesindeki tarama geçmişinizin ayrıntılarını içeren küçük dosyalardır.",
+                "website": "<strong>Web Sitesi</strong> Point Two Studios LTD anlamına gelir, <a href=\"https://pointtwostudios.com\" style=\"color: var(--accent-color)\">pointtwostudios.com</a> adresinden erişilebilir."
+            },
+            "useOfCookies": {
+                "title": "Çerezlerin Kullanımı",
+                "typeTitle": "Kullandığımız Çerez Türleri",
+                "text1": "Çerezler \"Kalıcı\" veya \"Oturum\" Çerezleri olabilir. Kalıcı Çerezler, Siz çevrimdışı olduğunuzda kişisel bilgisayarınızda veya mobil cihazınızda kalırken, Oturum Çerezleri web tarayıcınızı kapatır kapatmaz silinir.",
+                "text2": "Aşağıda belirtilen amaçlar için hem oturum hem de kalıcı Çerezleri kullanıyoruz:",
+                "necessary": {
+                    "title": "Gerekli / Temel Çerezler",
+                    "type": "Tür: Oturum Çerezleri",
+                    "administered": "Yöneten: Biz",
+                    "purpose": "Amaç: Bu Çerezler, Web Sitesi aracılığıyla sunulan hizmetleri Size sağlamak ve bazı özelliklerini kullanmanızı sağlamak için gereklidir."
+                },
+                "functionality": {
+                    "title": "İşlevsellik Çerezleri",
+                    "type": "Tür: Kalıcı Çerezler",
+                    "administered": "Yöneten: Biz",
+                    "purpose": "Amaç: Bu Çerezler, Web Sitesini kullanırken yaptığınız seçimleri, örneğin giriş bilgilerinizi veya dil tercihinizi hatırlamamızı sağlar."
+                },
+                "tracking": {
+                    "title": "Takip ve Performans Çerezleri",
+                    "type": "Tür: Kalıcı Çerezler",
+                    "administered": "Yöneten: Üçüncü Taraflar (Google Analytics)",
+                    "purpose": "Amaç: Bu Çerezler, Web Sitesine gelen trafik ve kullanıcıların Web Sitesini nasıl kullandığı hakkında bilgi izlemek için kullanılır."
+                }
+            },
+            "choices": {
+                "title": "Çerezlerle İlgili Seçimleriniz",
+                "text1": "Web Sitesinde Çerez kullanımından kaçınmayı tercih ederseniz, önce tarayıcınızda Çerez kullanımını devre dışı bırakmalı ve ardından bu web sitesiyle ilişkili tarayıcınızda kayıtlı Çerezleri silmelisiniz.",
+                "text2": "Çerezlerimizi kabul etmezseniz, Web Sitesini kullanımınızda bazı rahatsızlıklar yaşayabilirsiniz ve bazı özellikler düzgün çalışmayabilir.",
+                "text3": "Çerezleri nasıl yöneteceğiniz hakkında daha fazla bilgi için lütfen tarayıcınızın veya cihazınızın yardım bölümüne bakın."
+            },
+            "contact": {
+                "title": "Bize Ulaşın",
+                "text1": "Bu Çerez Politikası hakkında herhangi bir sorunuz varsa, bizimle iletişime geçebilirsiniz:"
+            }
+        },
+        "disclaimer": {
+            "title": "Sorumluluk Reddi",
+            "intro1": "Hizmette yer alan bilgiler yalnızca genel bilgilendirme amaçlıdır.",
+            "intro2": "Şirket, Hizmetin içeriğindeki hatalar veya eksiklikler için hiçbir sorumluluk kabul etmez.",
+            "general": {
+                "title": "Genel Sorumluluk Reddi",
+                "text1": "Şirket, Hizmetin kullanımı veya Hizmet içeriği ile bağlantılı olarak ortaya çıkan, sözleşme, ihmal veya diğer haksız fiil davasında olsun, herhangi bir özel, doğrudan, dolaylı, sonuçsal veya arızi zarardan veya herhangi bir zarardan hiçbir durumda sorumlu tutulamaz.",
+                "text2": "Şirket, Hizmetin virüslerden veya diğer zararlı bileşenlerden arınmış olduğunu garanti etmez."
+            },
+            "externalLinks": {
+                "title": "Harici Bağlantılar Sorumluluk Reddi",
+                "text1": "Hizmet, Şirket tarafından sağlanmayan veya sürdürülmeyen veya Şirket ile herhangi bir şekilde bağlantılı olmayan harici web sitelerine bağlantılar içerebilir.",
+                "text2": "Lütfen Şirketin bu harici web sitelerindeki herhangi bir bilginin doğruluğunu, ilgililiğini, zamanlılığını veya eksiksizliğini garanti etmediğini unutmayın."
+            },
+            "errors": {
+                "title": "Hatalar ve Eksiklikler Sorumluluk Reddi",
+                "text1": "Hizmet tarafından verilen bilgiler yalnızca ilgi duyulan konularda genel rehberlik içindir. Yasaların, kuralların ve yönetmeliklerin değişen doğası göz önüne alındığında, Hizmette yer alan bilgilerde gecikmeler, eksiklikler veya yanlışlıklar olabilir.",
+                "text2": "Şirket, herhangi bir hata veya eksiklikten veya bu bilgilerin kullanımından elde edilen sonuçlardan sorumlu değildir."
+            },
+            "fairUse": {
+                "title": "Adil Kullanım Sorumluluk Reddi",
+                "text1": "Şirket, telif hakkı sahibi tarafından her zaman özel olarak izin verilmeyen telif hakkıyla korunan materyalleri kullanabilir.",
+                "text2": "Şirket, bunun ABD Telif Hakkı yasasının 107. bölümünde öngörülen herhangi bir telif hakkıyla korunan materyalin \"adil kullanımı\"nı oluşturduğuna inanmaktadır.",
+                "text3": "Telif hakkıyla korunan materyali Hizmetten adil kullanımı aşan kendi amaçlarınız için kullanmak isterseniz, telif hakkı sahibinden izin almanız gerekir."
+            },
+            "views": {
+                "title": "Görüşler Sorumluluk Reddi",
+                "text1": "Hizmet, yazarların görüşlerini ve fikirlerini içerebilir ve Şirket dahil olmak üzere başka bir yazarın, ajansın, kuruluşun, işverenin veya şirketin resmi politikasını veya pozisyonunu yansıtmayabilir.",
+                "text2": "Kullanıcılar tarafından yayınlanan yorumlar tamamen kendi sorumluluklarındadır."
+            },
+            "noResponsibility": {
+                "title": "Sorumluluk Yoktur Sorumluluk Reddi",
+                "text1": "Hizmetteki bilgiler, Şirketin burada yasal, muhasebe, vergi veya diğer profesyonel tavsiye ve hizmetler sunmakla meşgul olmadığı anlayışıyla sağlanmaktadır.",
+                "text2": "Şirket veya tedarikçileri hiçbir durumda Hizmete erişiminiz veya kullanımınız veya erişim veya kullanım yetersizliğinizden kaynaklanan veya bunlarla bağlantılı olarak ortaya çıkan herhangi bir özel, arızi, dolaylı veya sonuçsal zarardan sorumlu tutulamaz."
+            },
+            "useRisk": {
+                "title": "\"Riski Size Ait Olmak Üzere Kullanım\" Sorumluluk Reddi",
+                "text1": "Hizmetteki tüm bilgiler \"olduğu gibi\", tamlık, doğruluk, zamanlılık veya bu bilgilerin kullanımından elde edilen sonuçlara dair hiçbir garanti verilmeksizin ve performans, ticarete elverişlilik ve belirli bir amaca uygunluk garantileri dahil ancak bunlarla sınırlı olmamak üzere açık veya zımni hiçbir garanti verilmeksizin sağlanmaktadır.",
+                "text2": "Şirket, Hizmet tarafından verilen bilgilere dayanarak alınan herhangi bir karar veya yapılan işlemden veya bu tür zararların olasılığı hakkında bilgilendirilmiş olsa bile herhangi bir sonuçsal, özel veya benzeri zarardan Size veya başka birine karşı sorumlu olmayacaktır."
+            },
+            "contact": {
+                "title": "Bize Ulaşın",
+                "text1": "Bu Yasal Uyarı hakkında herhangi bir sorunuz varsa, bizimle iletişime geçebilirsiniz:"
+            }
+        }
+    },
+    "imprint": {
+        "title": "Künye (Impressum)",
+        "informationPursuant": "Alman Telemedya Yasası (TMG) Bölüm 5 uyarınca bilgiler",
+        "representedBy": "Temsil eden:",
+        "contact": "İletişim",
+        "registerEntry": "Sicil Kaydı",
+        "vat": "KDV Kimlik No",
+        "disclaimer": "Sorumluluk Reddi",
+        "disclaimerText": "Sayfalarımızın içeriği büyük bir özenle hazırlanmıştır. Ancak içeriğin doğruluğu, eksiksizliği veya güncelliği konusunda garanti veremeyiz. Yasal hükümlere göre, bu web sayfalarındaki kendi içeriğimizden de sorumluyuz."
+    }
+}

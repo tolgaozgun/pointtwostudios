@@ -1,0 +1,225 @@
+{
+    "common": {
+        "pointTwoStudios": "Point Two Studios LTD",
+        "privacy": "Privacidad",
+        "terms": "Términos de Uso",
+        "cookies": "Política de Cookies",
+        "disclaimer": "Descargo de Responsabilidad",
+        "designedBy": "Diseñado y Construido por",
+        "allRightsReserved": "Todos los derechos reservados.",
+        "contactUs": "Contáctenos",
+        "learnMore": "Saber más",
+        "privacyPolicy": "Política de Privacidad",
+        "imprint": "Aviso Legal"
+    },
+    "home": {
+        "heroTitle": "Creando Experiencias Digitales",
+        "heroSubtitle": "Point Two Studios LTD es un estudio de software creativo. Enfocado en software minimalista, funcional y hermoso.",
+        "projects": "Proyectos",
+        "novusCard": {
+            "type": "Aplicación Móvil",
+            "description": "\"Motivational Quotes - Novus\" está diseñado para brindar inspiración diaria con una interfaz limpia y sin distracciones. Cuenta con una colección curada de citas para aumentar su productividad y atención plena."
+        },
+        "getInTouch": "Ponte en contacto"
+    },
+    "legal": {
+        "lastUpdated": "Última actualización: {{date}}",
+        "interpretation": "Interpretación y Definiciones",
+        "definitions": "Definiciones",
+        "contactIntro": "Si tiene alguna pregunta sobre estos Términos y Condiciones, puede contactarnos:",
+        "termsOfUse": {
+            "title": "Términos de Uso",
+            "intro": "Por favor, lea estos términos y condiciones cuidadosamente antes de usar Nuestro Servicio.",
+            "interpretation": {
+                "title": "Interpretación y Definiciones",
+                "interpretationText": "Las palabras cuya letra inicial está en mayúscula tienen significados definidos bajo las siguientes condiciones. Las siguientes definiciones tendrán el mismo significado independientemente de si aparecen en singular o en plural.",
+                "definitionsTitle": "Definiciones",
+                "definitionsIntro": "A los efectos de estos Términos y Condiciones:",
+                "application": "<strong>Aplicación</strong> se refiere al programa de software proporcionado por la Compañía descargado por Usted en cualquier dispositivo electrónico, llamado \"Motivational Quotes - Novus\".",
+                "company": "<strong>Compañía</strong> (referida como \"la Compañía\", \"Nosotros\", \"Nos\" o \"Nuestro\" en este Acuerdo) se refiere a Point Two Studios LTD.",
+                "service": "<strong>Servicio</strong> se refiere a la Aplicación o al Sitio web.",
+                "you": "<strong>Usted</strong> se refiere a la persona que accede o utiliza el Servicio, o la empresa u otra entidad legal en nombre de la cual dicha persona accede o utiliza el Servicio, según corresponda."
+            },
+            "acknowledgment": {
+                "title": "Reconocimiento",
+                "text1": "Estos son los Términos y Condiciones que rigen el uso de este Servicio y el acuerdo que opera entre Usted y la Compañía.",
+                "text2": "Su acceso y uso del Servicio está condicionado a su aceptación y cumplimiento de estos Términos y Condiciones."
+            },
+            "intellectualProperty": {
+                "title": "Propiedad Intelectual",
+                "text1": "El Servicio y su contenido original (excluyendo el Contenido proporcionado por Usted u otros usuarios), características y funcionalidad son y seguirán siendo propiedad exclusiva de la Compañía y sus licenciantes.",
+                "text2": "El Servicio está protegido por derechos de autor, marcas registradas y otras leyes tanto del País como de países extranjeros."
+            },
+            "links": {
+                "title": "Enlaces a otros sitios web",
+                "text1": "Nuestro Servicio puede contener enlaces a sitios web o servicios de terceros que no son propiedad ni están controlados por la Compañía.",
+                "text2": "La Compañía no tiene control ni asume responsabilidad alguna por el contenido, las políticas de privacidad o las prácticas de sitios web o servicios de terceros."
+            },
+            "termination": {
+                "title": "Terminación",
+                "text1": "Podemos terminar o suspender Su acceso inmediatamente, sin previo aviso o responsabilidad, por cualquier motivo, incluido, entre otros, si Usted incumple estos Términos y Condiciones.",
+                "text2": "Tras la terminación, Su derecho a utilizar el Servicio cesará inmediatamente."
+            },
+            "limitation": {
+                "title": "Limitación de Responsabilidad",
+                "text1": "Sin perjuicio de los daños en los que pueda incurrir, la responsabilidad total de la Compañía y cualquiera de sus proveedores bajo cualquier disposición de estos Términos y Su remedio exclusivo para todo lo anterior se limitará a la cantidad realmente pagada por Usted a través del Servicio o 100 USD si no ha comprado nada a través del Servicio.",
+                "text2": "En la máxima medida permitida por la ley aplicable, en ningún caso la Compañía o sus proveedores serán responsables de ningún daño especial, incidental, indirecto o consecuente."
+            },
+            "asIs": {
+                "title": "Descargo de responsabilidad \"TAL CUAL\" y \"SEGÚN DISPONIBILIDAD\"",
+                "text1": "El Servicio se le proporciona \"TAL CUAL\" y \"SEGÚN DISPONIBILIDAD\" y con todas las fallas y defectos sin garantía de ningún tipo."
+            },
+            "governing": {
+                "title": "Ley Aplicable",
+                "text1": "Las leyes del País, excluyendo sus normas de conflicto de leyes, regirán estos Términos y Su uso del Servicio."
+            },
+            "changes": {
+                "title": "Cambios a estos Términos y Condiciones",
+                "text1": "Nos reservamos el derecho, a nuestra sola discreción, de modificar o reemplazar estos Términos en cualquier momento."
+            },
+            "contact": {
+                "title": "Contáctenos",
+                "text1": "Si tiene alguna pregunta sobre estos Términos y Condiciones, puede contactarnos:"
+            }
+        },
+        "privacyPolicy": {
+            "title": "Política de Privacidad",
+            "intro": "Esta Política de Privacidad describe Nuestras políticas y procedimientos sobre la recopilación, uso y divulgación de Su información cuando utiliza el Servicio.",
+            "interpretation": {
+                "title": "Interpretación y Definiciones",
+                "definitionsIntro": "A los efectos de esta Política de Privacidad:",
+                "company": "<strong>Compañía</strong> (referida como \"la Compañía\", \"Nosotros\", \"Nos\" o \"Nuestro\" en este Acuerdo) se refiere a Point Two Studios LTD.",
+                "service": "<strong>Servicio</strong> se refiere a la Aplicación, específicamente \"Motivational Quotes - Novus\", y al Sitio web.",
+                "you": "<strong>Usted</strong> se refiere a la persona que accede o utiliza el Servicio."
+            },
+            "collecting": {
+                "title": "Recopilación y uso de sus datos personales",
+                "typesTitle": "Tipos de datos recopilados",
+                "text1": "No recopilamos ninguna información de identificación personal (PII) mientras utiliza nuestras aplicaciones. La Aplicación no requiere que cree una cuenta."
+            },
+            "gdpr": {
+                "title": "Derechos de protección de datos GDPR",
+                "intro": "Nos gustaría asegurarnos de que conoce plenamente todos sus derechos de protección de datos. Todo usuario tiene derecho a lo siguiente:",
+                "access": "El derecho de acceso – Tiene derecho a solicitar copias de sus datos personales.",
+                "rectification": "El derecho a la rectificación – Tiene derecho a solicitar que corrijamos cualquier información que crea que es inexacta.",
+                "erasure": "El derecho al olvido – Tiene derecho a solicitar que borremos sus datos personales, bajo ciertas condiciones."
+            },
+            "cookies": {
+                "title": "Cookies",
+                "text1": "Las cookies son archivos de texto que se colocan en su computadora para recopilar información de registro estándar de Internet e información sobre el comportamiento de los visitantes.",
+                "text2": "Utilizamos cookies para mejorar su experiencia en nuestro sitio web."
+            },
+            "children": {
+                "title": "Privacidad de los niños",
+                "text1": "Nuestro Servicio no está dirigido a menores de 13 años."
+            },
+            "changes": {
+                "title": "Cambios en esta Política de Privacidad",
+                "text1": "Podemos actualizar Nuestra Política de Privacidad de vez en cuando."
+            },
+            "contact": {
+                "title": "Contáctenos",
+                "text1": "Si tiene alguna pregunta sobre esta Política de Privacidad, puede contactarnos:"
+            }
+        },
+        "cookiePolicy": {
+            "title": "Política de Cookies",
+            "intro": "Esta Política de Cookies explica qué son las Cookies y cómo las utilizamos.",
+            "interpretation": {
+                "title": "Interpretación y Definiciones",
+                "definitionsIntro": "A los efectos de esta Política de Cookies:",
+                "cookies": "<strong>Cookies</strong> son pequeños archivos que se colocan en Su computadora, dispositivo móvil o cualquier otro dispositivo por un sitio web.",
+                "website": "<strong>Sitio web</strong> se refiere a Point Two Studios LTD, accesible desde <a href=\"https://pointtwostudios.com\" style=\"color: var(--accent-color)\">pointtwostudios.com</a>"
+            },
+            "useOfCookies": {
+                "title": "El uso de las Cookies",
+                "typeTitle": "Tipo de Cookies que utilizamos",
+                "text1": "Las cookies pueden ser Cookies \"Persistentes\" o de \"Sesión\".",
+                "text2": "Utilizamos cookies de sesión y persistentes para los fines que se detallan a continuación:",
+                "necessary": {
+                    "title": "Cookies Necesarias / Esenciales",
+                    "type": "Tipo: Cookies de Sesión",
+                    "administered": "Administrado por: Nosotros",
+                    "purpose": "Propósito: Estas Cookies son esenciales para brindarle los servicios disponibles a través del Sitio web."
+                },
+                "functionality": {
+                    "title": "Cookies de Funcionalidad",
+                    "type": "Tipo: Cookies Persistentes",
+                    "administered": "Administrado por: Nosotros",
+                    "purpose": "Propósito: Estas Cookies nos permiten recordar las elecciones que realiza cuando utiliza el Sitio web."
+                },
+                "tracking": {
+                    "title": "Cookies de Seguimiento y Rendimiento",
+                    "type": "Tipo: Cookies Persistentes",
+                    "administered": "Administrado por: Terceros (Google Analytics)",
+                    "purpose": "Propósito: Estas Cookies se utilizan para rastrear información sobre el tráfico al Sitio web y cómo los usuarios utilizan el Sitio web."
+                }
+            },
+            "choices": {
+                "title": "Sus opciones con respecto a las Cookies",
+                "text1": "Si prefiere evitar el uso de Cookies en el Sitio web, primero debe deshabilitar el uso de Cookies en su navegador.",
+                "text2": "Si no acepta Nuestras Cookies, es posible que experimente algunos inconvenientes en su uso del Sitio web.",
+                "text3": "Para obtener más información sobre cómo administrar las cookies, consulte la sección de ayuda de su navegador o dispositivo."
+            },
+            "contact": {
+                "title": "Contáctenos",
+                "text1": "Si tiene alguna pregunta sobre esta Política de Cookies, puede contactarnos:"
+            }
+        },
+        "disclaimer": {
+            "title": "Descargo de Responsabilidad",
+            "intro1": "La información contenida en el Servicio es solo para fines de información general.",
+            "intro2": "La Compañía no asume ninguna responsabilidad por errores u omisiones en el contenido del Servicio.",
+            "general": {
+                "title": "Descargo de Responsabilidad General",
+                "text1": "En ningún caso la Compañía será responsable de ningún daño especial, directo, indirecto, consecuente o incidental.",
+                "text2": "La Compañía no garantiza que el Servicio esté libre de virus u otros componentes dañinos."
+            },
+            "externalLinks": {
+                "title": "Descargo de Responsabilidad de Enlaces Externos",
+                "text1": "El Servicio puede contener enlaces a sitios web externos que no son proporcionados ni mantenidos por la Compañía.",
+                "text2": "Tenga en cuenta que la Compañía no garantiza la exactitud, relevancia, puntualidad o integridad de la información en estos sitios web externos."
+            },
+            "errors": {
+                "title": "Descargo de Responsabilidad de Errores y Omisiones",
+                "text1": "La información proporcionada por el Servicio es solo para orientación general sobre asuntos de interés.",
+                "text2": "La Compañía no es responsable de ningún error u omisión."
+            },
+            "fairUse": {
+                "title": "Descargo de Responsabilidad de Uso Justo",
+                "text1": "La Compañía puede utilizar material protegido por derechos de autor que no siempre ha sido autorizado específicamente por el propietario de los derechos de autor.",
+                "text2": "La Compañía cree que esto constituye un \"uso justo\" de dicho material protegido por derechos de autor.",
+                "text3": "Si desea utilizar material protegido por derechos de autor del Servicio para sus propios fines que van más allá del uso justo, debe obtener permiso del propietario de los derechos de autor."
+            },
+            "views": {
+                "title": "Descargo de Responsabilidad de Opiniones Expresadas",
+                "text1": "El Servicio puede contener puntos de vista y opiniones que son los de los autores.",
+                "text2": "Los comentarios publicados por los usuarios son de su exclusiva responsabilidad."
+            },
+            "noResponsibility": {
+                "title": "Descargo de Responsabilidad de No Responsabilidad",
+                "text1": "La información en el Servicio se proporciona con el entendimiento de que la Compañía no se dedica a prestar asesoramiento y servicios legales, contables, fiscales u otros profesionales.",
+                "text2": "En ningún caso la Compañía o sus proveedores serán responsables de ningún daño especial, incidental, indirecto o consecuente."
+            },
+            "useRisk": {
+                "title": "Descargo de Responsabilidad de \"Uso bajo su propio riesgo\"",
+                "text1": "Toda la información en el Servicio se proporciona \"tal cual\", sin garantía de integridad, precisión, puntualidad o de los resultados obtenidos del uso de esta información.",
+                "text2": "La Compañía no será responsable ante Usted ni ante nadie más por ninguna decisión tomada o acción realizada basándose en la información proporcionada por el Servicio."
+            },
+            "contact": {
+                "title": "Contáctenos",
+                "text1": "Si tiene alguna pregunta sobre este Descargo de Responsabilidad, puede contactarnos:"
+            }
+        }
+    },
+    "imprint": {
+        "title": "Aviso Legal (Impressum)",
+        "informationPursuant": "Información según la Ley Alemana de Telemedios (TMG)",
+        "representedBy": "Representado por:",
+        "contact": "Contacto",
+        "registerEntry": "Registro",
+        "vat": "ID de IVA",
+        "disclaimer": "Descargo de responsabilidad",
+        "disclaimerText": "Los contenidos de nuestras páginas han sido creados con el mayor cuidado. Sin embargo, no podemos garantizar la exactitud, integridad o actualidad de los contenidos."
+    }
+}
