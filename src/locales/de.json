@@ -20,6 +20,10 @@
             "type": "Mobile App",
             "description": "\"Motivational Quotes - Novus\" wurde entwickelt, um mit einer sauberen, ablenkungsfreien Oberfläche tägliche Inspiration zu bieten. Bietet eine kuratierte Sammlung von Zitaten, um Ihre Produktivität und Achtsamkeit zu steigern."
         },
+        "fileHelperCard": {
+            "type": "Web-App",
+            "description": "Ein umfassendes Online-Tool zur Dateikonvertierung, Komprimierung, Größenänderung und Bearbeitung. Sicher, schnell und einfach zu bedienen."
+        },
         "getInTouch": "Kontakt aufnehmen"
     },
     "legal": {
@@ -30,34 +34,38 @@
         "termsOfUse": {
             "title": "Nutzungsbedingungen",
             "intro": "Bitte lesen Sie diese Nutzungsbedingungen sorgfältig durch, bevor Sie unseren Service nutzen.",
+            "agreement": {
+                "title": "Zustimmung zu den Bedingungen",
+                "text": "Diese Nutzungsbedingungen stellen eine rechtsverbindliche Vereinbarung dar, die zwischen Ihnen, ob persönlich oder im Namen einer juristischen Person (\"Sie\") und {{appName}} (\"wir\", \"uns\" oder \"unser\") bezüglich Ihres Zugriffs auf und Ihrer Nutzung der Website sowie aller anderen Medienformen, Medienkanäle, mobilen Websites oder mobilen Anwendungen, die damit verbunden, verlinkt oder anderweitig verbunden sind (zusammen die \"Site\"), geschlossen wurde."
+            },
             "interpretation": {
                 "title": "Auslegung und Definitionen",
                 "interpretationText": "Die Wörter, deren Anfangsbuchstabe großgeschrieben wird, haben Bedeutungen, die unter den folgenden Bedingungen definiert sind. Die folgenden Definitionen haben dieselbe Bedeutung, unabhängig davon, ob sie im Singular oder Plural erscheinen.",
                 "definitionsTitle": "Definitionen",
                 "definitionsIntro": "Für die Zwecke dieser Nutzungsbedingungen:",
-                "application": "<strong>Anwendung</strong> bezeichnet das vom Unternehmen bereitgestellte Softwareprogramm, das von Ihnen auf ein elektronisches Gerät heruntergeladen wurde, mit dem Namen \"Motivational Quotes - Novus\".",
-                "company": "<strong>Unternehmen</strong> (in dieser Vereinbarung als \"das Unternehmen\", \"Wir\", \"Uns\" oder \"Unser\" bezeichnet) bezieht sich auf Point Two Studios LTD.",
-                "service": "<strong>Dienst</strong> bezeichnet die Anwendung oder die Website.",
+                "application": "<strong>Anwendung</strong> bezeichnet das vom Unternehmen bereitgestellte Softwareprogramm, das von Ihnen auf ein elektronisches Gerät heruntergeladen wurde, mit dem Namen {{appName}}.",
+                "company": "<strong>Unternehmen</strong> (in dieser Vereinbarung als \"das Unternehmen\", \"Wir\", \"Uns\" oder \"Unser\" bezeichnet) bezieht sich auf {{appName}}.",
+                "service": "<strong>Dienst</strong> bezeichnet die Anwendung oder die Website oder beides.",
                 "you": "<strong>Sie</strong> bezeichnet die Person, die auf den Dienst zugreift oder ihn nutzt, oder das Unternehmen oder eine andere juristische Person, in deren Namen eine solche Person auf den Dienst zugreift oder ihn nutzt."
             },
             "acknowledgment": {
                 "title": "Anerkennung",
-                "text1": "Dies sind die Nutzungsbedingungen, die die Nutzung dieses Dienstes regeln, und die Vereinbarung, die zwischen Ihnen und dem Unternehmen besteht.",
+                "text1": "Dies sind die Nutzungsbedingungen, die die Nutzung dieses Dienstes regeln, und die Vereinbarung, die zwischen Ihnen und {{appName}} besteht.",
                 "text2": "Ihr Zugang zu und Ihre Nutzung des Dienstes ist abhängig von Ihrer Annahme und Einhaltung dieser Nutzungsbedingungen."
             },
             "intellectualProperty": {
                 "title": "Geistiges Eigentum",
-                "text1": "Der Dienst und seine ursprünglichen Inhalte (ausgenommen Inhalte, die von Ihnen oder anderen Benutzern bereitgestellt werden), Funktionen und Funktionen sind und bleiben das ausschließliche Eigentum des Unternehmens und seiner Lizenzgeber.",
-                "text2": "Der Dienst ist durch Urheber-, Marken- und andere Gesetze sowohl des Landes als auch ausländischer Staaten geschützt."
+                "text1": "Sofern nicht anders angegeben, ist die Website unser Eigentum und der gesamte Quellcode, Datenbanken, Funktionen, Software, Website-Designs, Audio, Video, Text, Fotos und Grafiken auf der Website (zusammen der \"Inhalt\") und die darin enthaltenen Marken, Dienstleistungsmarken und Logos (die \"Marken\") sind Eigentum von uns oder werden von uns kontrolliert oder an uns lizenziert und sind durch Urheber- und Markenrechte sowie verschiedene andere Rechte an geistigem Eigentum und Gesetze gegen unlauteren Wettbewerb der Vereinigten Staaten, internationale Urheberrechtsgesetze und internationale Konventionen geschützt.",
+                "text2": "Der Inhalt und die Marken werden auf der Website \"WIE BESEHEN\" nur zu Ihrer Information und persönlichen Nutzung bereitgestellt. Außer wie ausdrücklich in diesen Nutzungsbedingungen vorgesehen, darf kein Teil der Website und kein Inhalt oder keine Marke ohne unsere ausdrückliche vorherige schriftliche Genehmigung kopiert, reproduziert, aggregiert, neu veröffentlicht, hochgeladen, gepostet, öffentlich angezeigt, codiert, übersetzt, übertragen, verteilt, verkauft, lizenziert oder anderweitig für gewerbliche Zwecke genutzt werden."
             },
             "links": {
                 "title": "Links zu anderen Websites",
-                "text1": "Unser Dienst kann Links zu Websites oder Diensten Dritter enthalten, die nicht im Besitz oder unter der Kontrolle des Unternehmens stehen.",
+                "text": "Unser Dienst kann Links zu Websites oder Diensten Dritter enthalten, die nicht im Besitz oder unter der Kontrolle von {{appName}} stehen.",
                 "text2": "Das Unternehmen hat keine Kontrolle über und übernimmt keine Verantwortung für den Inhalt, die Datenschutzrichtlinien oder Praktiken von Websites oder Diensten Dritter."
             },
             "termination": {
                 "title": "Kündigung",
-                "text1": "Wir können Ihren Zugang sofort, ohne vorherige Ankündigung oder Haftung, aus jedem Grund kündigen oder aussetzen, einschließlich und ohne Einschränkung, wenn Sie gegen diese Nutzungsbedingungen verstoßen.",
+                "text": "Wir können Ihren Zugang sofort, ohne vorherige Ankündigung oder Haftung, aus jedem Grund kündigen oder aussetzen, einschließlich und ohne Einschränkung, wenn Sie gegen diese Nutzungsbedingungen verstoßen.",
                 "text2": "Bei Kündigung erlischt Ihr Recht zur Nutzung des Dienstes sofort."
             },
             "limitation": {
@@ -77,19 +85,23 @@
                 "title": "Änderungen dieser Nutzungsbedingungen",
                 "text1": "Wir behalten uns das Recht vor, nach eigenem Ermessen diese Bedingungen jederzeit zu ändern oder zu ersetzen."
             },
+            "law": {
+                "title": "Geltendes Recht",
+                "text": "Diese Bedingungen unterliegen den Gesetzen der Türkei und werden diesbezüglich ausgelegt. Point Two Studios LTD und Sie stimmen unwiderruflich zu, dass die Gerichte der Türkei die ausschließliche Zuständigkeit für die Beilegung von Streitigkeiten haben, die im Zusammenhang mit diesen Bedingungen entstehen können."
+            },
             "contact": {
                 "title": "Kontaktieren Sie uns",
                 "text1": "Wenn Sie Fragen zu diesen Nutzungsbedingungen haben, können Sie uns kontaktieren:"
             }
         },
         "privacyPolicy": {
-            "title": "Datenschutzrichtlinie",
+            "title": "Datenschutzrichtlinie für {{appName}}",
             "intro": "Diese Datenschutzrichtlinie beschreibt unsere Richtlinien und Verfahren zur Erfassung, Nutzung und Offenlegung Ihrer Informationen bei der Nutzung des Dienstes.",
             "interpretation": {
                 "title": "Auslegung und Definitionen",
                 "definitionsIntro": "Für die Zwecke dieser Datenschutzrichtlinie:",
-                "company": "<strong>Unternehmen</strong> (in dieser Vereinbarung als \"das Unternehmen\", \"Wir\", \"Uns\" oder \"Unser\" bezeichnet) bezieht sich auf Point Two Studios LTD.",
-                "service": "<strong>Dienst</strong> bezeichnet die Anwendung, insbesondere \"Motivational Quotes - Novus\", und die Website.",
+                "company": "<strong>Unternehmen</strong> (in dieser Vereinbarung als \"das Unternehmen\", \"Wir\", \"Uns\" oder \"Unser\" bezeichnet) bezieht sich auf {{appName}}.",
+                "service": "<strong>Dienst</strong> bezeichnet die Website.",
                 "you": "<strong>Sie</strong> bezeichnet die Person, die auf den Dienst zugreift oder ihn nutzt."
             },
             "collecting": {
@@ -124,12 +136,13 @@
         },
         "cookiePolicy": {
             "title": "Cookie-Richtlinie",
-            "intro": "Diese Cookie-Richtlinie erklärt, was Cookies sind und wie wir sie verwenden.",
+            "intro": "Diese Cookie-Richtlinie erklärt, was Cookies sind und wie wir sie verwenden. Sie sollten diese Richtlinie lesen, damit Sie verstehen, welche Art von Cookies wir verwenden oder welche Informationen wir mithilfe von Cookies sammeln und wie diese Informationen verwendet werden. Diese Cookie-Richtlinie wurde mit Hilfe des Cookies Policy Generator erstellt.",
             "interpretation": {
                 "title": "Auslegung und Definitionen",
                 "definitionsIntro": "Für die Zwecke dieser Cookie-Richtlinie:",
                 "cookies": "<strong>Cookies</strong> sind kleine Dateien, die von einer Website auf Ihrem Computer abgelegt werden.",
-                "website": "<strong>Website</strong> bezieht sich auf Point Two Studios LTD, erreichbar unter <a href=\"https://pointtwostudios.com\" style=\"color: var(--accent-color)\">pointtwostudios.com</a>"
+                "website": "<strong>Website</strong> bezieht sich auf {{appName}}, erreichbar unter {{domainName}}",
+                "company": "<strong>Unternehmen</strong> (in dieser Vereinbarung als \"das Unternehmen\", \"Wir\", \"Uns\" oder \"Unser\" bezeichnet) bezieht sich auf Point Two Studios LTD."
             },
             "useOfCookies": {
                 "title": "Die Verwendung der Cookies",
