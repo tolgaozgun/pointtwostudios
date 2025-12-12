@@ -10,6 +10,7 @@ import FileHelper from './pages/FileHelper';
 import PhotoRestore from './pages/PhotoRestore';
 import DetectiveGame from './pages/DetectiveGame';
 import MeetTime from './pages/MeetTime';
+import SlimSmart from './pages/SlimSmart';
 import MinecraftWorld from './pages/MinecraftWorld';
 import Imprint from './pages/Imprint';
 import CookieConsent from './components/CookieConsent';
@@ -56,6 +57,13 @@ function App() {
               <Route path="/meettime/terms-of-use" element={<TermsOfUse appName="MeetTime" domainName="meettime.app" />} />
               <Route path="/meettime/cookie-policy" element={<CookiePolicy appName="MeetTime" domainName="meettime.app" />} />
               <Route path="/meettime/disclaimer" element={<Disclaimer appName="MeetTime" domainName="meettime.app" />} />
+
+              {/* SlimSmart App */}
+              <Route path="/slimsmart" element={<SlimSmart />} />
+              <Route path="/slimsmart/privacy-policy" element={<PrivacyPolicy appName="SlimSmart" domainName="slimsmartapp.com" />} />
+              <Route path="/slimsmart/terms-of-use" element={<TermsOfUse appName="SlimSmart" domainName="slimsmartapp.com" />} />
+              <Route path="/slimsmart/cookie-policy" element={<CookiePolicy appName="SlimSmart" domainName="slimsmartapp.com" />} />
+              <Route path="/slimsmart/disclaimer" element={<Disclaimer appName="SlimSmart" domainName="slimsmartapp.com" />} />
 
               {/* Minecraft World */}
               <Route path="/minecraft" element={<MinecraftWorld />} />

@@ -42,6 +42,10 @@
             "type": "Blog",
             "description": "Ein umfassender türkischer Minecraft-Blog mit Nachrichten, Anleitungen und Community-Updates."
         },
+        "slimSmartCard": {
+            "type": "Mobile App",
+            "description": "Erreichen Sie Ihre Abnehmziele mit SlimSmart. Ernährungstagebuch, Gewichtsüberwachung und persönliche Einblicke."
+        },
         "getInTouch": "Kontakt aufnehmen"
     },
     "fileHelper": {
@@ -82,6 +86,14 @@
             "title": "Minecraft Dünyası",
             "subtitle": "Ihre türkische Minecraft-Quelle",
             "description": "The latest news, guides, mods, and updates from the world of Minecraft. Join the largest Turkish Minecraft community."
+        }
+    },
+    "slimSmart": {
+        "hero": {
+            "badge": "Mobile App",
+            "title": "SlimSmart",
+            "subtitle": "Intelligentes Abnehmen",
+            "description": "Verfolgen Sie Ihre Kalorien, überwachen Sie Ihren Fortschritt und bleiben Sie motiviert auf Ihrem Weg zu einem gesünderen Ich. Einfach, effektiv und intelligent."
         }
     },
     "legal": {

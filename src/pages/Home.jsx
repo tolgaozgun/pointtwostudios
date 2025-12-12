@@ -434,6 +434,68 @@ const Home = () => {
                             </Link>
                         </div>
                     </div>
+                    {/* SlimSmart Card */}
+                    <div className="glass-panel project-card">
+                        <div style={{
+                            display: 'flex',
+                            flexDirection: 'column',
+                            gap: '0.8rem',
+                            marginBottom: '1.5rem',
+                            borderBottom: '1px solid var(--glass-border)',
+                            paddingBottom: '1rem',
+                            alignItems: 'flex-start'
+                        }}>
+                            <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
+                                {/* Icon */}
+                                <div style={{
+                                    width: '48px',
+                                    height: '48px',
+                                    borderRadius: '12px',
+                                    background: 'linear-gradient(135deg, #22c55e, #16a34a)',
+                                    display: 'flex',
+                                    alignItems: 'center',
+                                    justifyContent: 'center',
+                                    fontSize: '1.5rem',
+                                    color: 'white',
+                                    fontWeight: 'bold'
+                                }}>
+                                    S
+                                </div>
+                                <h3 style={{ fontSize: '1.5rem', fontWeight: '700', lineHeight: 1 }}>SlimSmart</h3>
+                            </div>
+                            <span style={{
+                                background: 'rgba(34, 197, 94, 0.1)',
+                                color: '#22c55e',
+                                padding: '0.3rem 0.6rem',
+                                borderRadius: 'var(--radius-full)',
+                                fontSize: '0.7rem',
+                                fontWeight: '600',
+                                textTransform: 'uppercase',
+                                letterSpacing: '0.5px',
+                                alignSelf: 'flex-start'
+                            }}>
+                                {t('home.slimSmartCard.type')}
+                            </span>
+                        </div>
+
+                        <p style={{
+                            color: 'var(--text-secondary)',
+                            lineHeight: '1.7',
+                            marginBottom: '2rem',
+                            flex: 1
+                        }}>
+                            {t('home.slimSmartCard.description')}
+                        </p>
+
+                        <div style={{ display: 'flex', gap: '1rem', marginTop: 'auto' }}>
+                            <Link to="/slimsmart" className="btn" style={{ textDecoration: 'none', flex: 1 }}>
+                                {t('common.learnMore')}
+                            </Link>
+                            <Link to="/slimsmart/privacy-policy" className="btn btn-secondary" style={{ textDecoration: 'none' }}>
+                                {t('common.privacyPolicy')}
+                            </Link>
+                        </div>
+                    </div>
                 </div>
             </section>
 
